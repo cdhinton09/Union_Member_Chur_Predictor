@@ -1,0 +1,1001 @@
+﻿ID,gender,Management,USAcitizen,Married,MonthsInUnion,ContinuingEd,FeatureA,Connectivity,FeatureC,FeatureD,FeatureE,FeatureF,FeatureG,FeatureB,DuesFrequency,PaperlessBilling,PaymentMethod,MonthlyDues,TotalDues,LeftUnion
+CHRISTOPHER1,Female,0,Yes,No,32,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,No,Bank transfer (automatic),84,2586,Yes
+CHRISTOPHER2,Male,0,Yes,Yes,2,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),90,186,Yes
+CHRISTOPHER3,Male,0,No,No,48,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),79,3772,No
+CHRISTOPHER4,Male,0,Yes,Yes,59,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),19,1193,No
+CHRISTOPHER5,Male,0,No,No,10,Yes,Yes,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),55,568,No
+CHRISTOPHER6,Male,0,Yes,No,43,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),86,3552,No
+CHRISTOPHER7,Male,0,No,Yes,53,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),20,1052,Yes
+CHRISTOPHER8,Female,0,No,No,5,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,96,512,Yes
+CHRISTOPHER9,Male,1,Yes,No,12,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,80,950,Yes
+CHRISTOPHER10,Female,0,No,No,24,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,104,2495,No
+CHRISTOPHER11,Male,0,No,No,4,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,No,Electronic check,78,299,Yes
+CHRISTOPHER12,Male,0,No,No,51,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,No,One year,Yes,Electronic check,95,4838,Yes
+CHRISTOPHER13,Male,0,No,No,67,Yes,No,DSL,No,No,No,Yes,No,No,Two year,No,Bank transfer (automatic),51,3260,No
+CHRISTOPHER14,Female,0,No,No,6,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,91,455,Yes
+CHRISTOPHER15,Female,1,Yes,No,622,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,19437,6479,No
+CHRISTOPHER16,Male,0,Yes,Yes,68,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Bank transfer (automatic),20,1303,No
+CHRISTOPHER17,Male,0,No,No,63,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,One year,No,Credit card (automatic),90,5826,No
+CHRISTOPHER18,Male,0,No,Yes,1,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,50,50,No
+CHRISTOPHER19,Female,1,No,No,41,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,113,4690,Yes
+CHRISTOPHER20,Female,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,20,20,No
+CHRISTOPHER21,Male,0,Yes,No,3,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,209,Yes
+CHRISTOPHER22,Male,0,Yes,Yes,31,Yes,Yes,DSL,No,No,No,No,No,Yes,Month-to-month,No,Bank transfer (automatic),60,1826,No
+CHRISTOPHER23,Male,0,No,No,1,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,No,Mailed check,51,51,Yes
+CHRISTOPHER24,Female,0,No,No,9,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,44,406,No
+CHRISTOPHER25,Female,0,No,No,2,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,25,46,No
+CHRISTOPHER26,Male,0,Yes,No,58,Yes,No,DSL,No,No,Yes,No,No,No,One year,No,Credit card (automatic),50,2879,No
+CHRISTOPHER27,Female,0,No,No,1,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Electronic check,76,76,No
+CHRISTOPHER28,Male,0,Yes,No,49,Yes,Yes,DSL,Yes,No,No,No,No,No,One year,Yes,Electronic check,55,2634,No
+CHRISTOPHER29,Male,1,No,No,30,Yes,Yes,DSL,No,No,Yes,Yes,Yes,No,Two year,Yes,Credit card (automatic),69,2094,No
+CHRISTOPHER30,Female,0,No,No,14,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),50,710,No
+CHRISTOPHER31,Female,0,No,No,63,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),110,7003,No
+CHRISTOPHER32,Male,1,Yes,No,57,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,90,4925,No
+CHRISTOPHER33,Male,0,No,No,34,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,676,No
+CHRISTOPHER34,Female,0,Yes,No,69,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),85,5869,No
+CHRISTOPHER35,Female,0,No,No,65,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Two year,Yes,Mailed check,60,3740,No
+CHRISTOPHER36,Female,0,No,No,44,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),88,3973,No
+CHRISTOPHER37,Male,0,No,No,8,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,95,740,Yes
+CHRISTOPHER38,Male,0,No,No,42,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Electronic check,25,950,No
+CHRISTOPHER39,Female,0,No,No,13,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),80,1029,No
+CHRISTOPHER40,Male,1,Yes,No,29,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,84,2358,No
+CHRISTOPHER41,Female,0,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,Two year,Yes,Credit card (automatic),94,6922,No
+CHRISTOPHER42,Male,0,Yes,No,69,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),113,7807,No
+CHRISTOPHER43,Female,0,No,No,2,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,20,35,No
+CHRISTOPHER44,Male,1,No,No,3,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,81,234,Yes
+CHRISTOPHER45,Female,0,No,No,41,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Electronic check,107,4282,No
+CHRISTOPHER46,Male,0,No,No,3,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,85,265,Yes
+CHRISTOPHER47,Female,0,Yes,No,25,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Bank transfer (automatic),20,508,No
+CHRISTOPHER48,Male,0,Yes,No,56,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,No,One year,Yes,Electronic check,93,5254,No
+CHRISTOPHER49,Male,0,No,No,51,No,Maryville,DSL,Yes,No,No,Yes,No,Yes,Month-to-month,Yes,Credit card (automatic),44,2182,No
+CHRISTOPHER50,Male,0,No,No,29,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,85,2516,No
+CHRISTOPHER51,Male,0,No,No,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),87,6225,No
+CHRISTOPHER52,Male,0,Yes,Yes,29,No,Maryville,DSL,Yes,Yes,Yes,Yes,No,Yes,One year,Yes,Credit card (automatic),55,1637,No
+CHRISTOPHER53,Female,1,No,No,11,Yes,Yes,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,56,581,No
+CHRISTOPHER54,Female,0,Yes,Yes,26,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,495,No
+CHRISTOPHER55,Female,0,Yes,Yes,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,21,21,Yes
+CHRISTOPHER56,Female,0,No,No,13,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Electronic check,20,245,No
+CHRISTOPHER57,Male,1,No,No,56,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,101,5594,No
+CHRISTOPHER58,Female,0,No,No,7,Yes,No,DSL,Yes,Yes,Yes,No,No,No,Month-to-month,No,Electronic check,61,439,No
+CHRISTOPHER59,Female,0,No,No,17,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Bank transfer (automatic),20,323,No
+CHRISTOPHER60,Male,0,No,No,1,No,Maryville,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),35,35,Yes
+CHRISTOPHER61,Female,0,No,No,19,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,368,No
+CHRISTOPHER62,Female,0,No,No,5,No,Maryville,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),51,229,No
+CHRISTOPHER63,Male,0,Yes,Yes,52,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Credit card (automatic),21,1072,No
+CHRISTOPHER64,Female,0,No,No,11,Yes,No,DSL,Yes,No,No,Yes,No,No,One year,Yes,Mailed check,55,618,No
+CHRISTOPHER65,Male,0,Yes,No,68,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,108,7321,No
+CHRISTOPHER66,Male,1,No,No,22,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,97,2083,Yes
+CHRISTOPHER67,Male,0,Yes,Yes,63,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,No,Two year,No,Credit card (automatic),75,4675,No
+CHRISTOPHER68,Male,0,Yes,Yes,67,Yes,No,DSL,Yes,Yes,No,No,No,No,Two year,Yes,Bank transfer (automatic),54,3838,No
+CHRISTOPHER69,Female,0,No,No,2,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,91,169,No
+CHRISTOPHER70,Male,0,No,No,7,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Mailed check,85,603,Yes
+CHRISTOPHER71,Female,0,Yes,Yes,12,No,Maryville,DSL,No,Yes,No,No,No,No,Month-to-month,No,Mailed check,29,309,Yes
+CHRISTOPHER72,Male,1,Yes,No,11,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,215,Yes
+CHRISTOPHER73,Male,0,Yes,No,8,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,158,No
+CHRISTOPHER74,Female,0,No,No,15,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Bank transfer (automatic),20,297,Yes
+CHRISTOPHER75,Male,0,No,No,1,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,25,25,No
+CHRISTOPHER76,Female,1,No,No,41,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),101,4016,No
+CHRISTOPHER77,Female,0,No,No,49,Yes,Yes,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Credit card (automatic),60,2934,Yes
+CHRISTOPHER78,Female,1,No,No,33,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,110,3655,Yes
+CHRISTOPHER79,Male,0,Yes,No,22,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Bank transfer (automatic),20,472,No
+CHRISTOPHER80,Male,0,Yes,No,4,Yes,No,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,Yes,Mailed check,81,319,Yes
+CHRISTOPHER81,Male,0,Yes,Yes,19,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,No,Electronic check,103,2013,Yes
+CHRISTOPHER82,Female,0,Yes,Yes,69,No,Maryville,DSL,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Credit card (automatic),55,3773,No
+CHRISTOPHER83,Male,0,Yes,Yes,64,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Bank transfer (automatic),20,1274,No
+CHRISTOPHER84,Male,0,Yes,No,29,No,Maryville,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,46,1332,No
+CHRISTOPHER85,Male,0,Yes,Yes,31,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,No,No,Month-to-month,No,Electronic check,89,2823,No
+CHRISTOPHER86,Male,1,No,No,1,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,25,25,Yes
+CHRISTOPHER87,Female,1,No,No,4,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,49,180,No
+CHRISTOPHER88,Female,0,Yes,Yes,57,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,101,5612,No
+CHRISTOPHER89,Male,0,Yes,Yes,6,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),84,478,Yes
+CHRISTOPHER90,Male,0,No,No,19,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Credit card (automatic),74,1425,Yes
+CHRISTOPHER91,Female,1,No,No,17,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,94,1608,No
+CHRISTOPHER92,Male,0,Yes,No,36,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Bank transfer (automatic),21,720,No
+CHRISTOPHER93,Female,0,No,No,59,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Two year,No,Electronic check,96,5655,No
+CHRISTOPHER94,Male,0,Yes,No,61,No,Maryville,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,62,3779,No
+CHRISTOPHER95,Female,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,46,46,Yes
+CHRISTOPHER96,Female,0,Yes,No,47,Yes,No,DSL,Yes,No,Yes,No,Yes,No,One year,Yes,Credit card (automatic),66,3021,No
+CHRISTOPHER97,Male,0,Yes,No,52,Yes,No,DSL,Yes,Yes,No,No,Yes,Yes,One year,Yes,Mailed check,75,3865,No
+CHRISTOPHER98,Female,0,Yes,Yes,72,Yes,Yes,DSL,Yes,No,Yes,No,Yes,No,Two year,Yes,Bank transfer (automatic),71,5026,No
+CHRISTOPHER99,Male,0,No,No,10,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Credit card (automatic),20,199,No
+CHRISTOPHER100,Female,0,Yes,Yes,55,Yes,No,Fiber optic,No,No,No,No,No,No,Two year,Yes,Credit card (automatic),69,3843,No
+CHRISTOPHER101,Female,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Electronic check,21,21,No
+CHRISTOPHER102,Female,0,No,Yes,18,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Bank transfer (automatic),20,391,Yes
+CHRISTOPHER103,Female,0,No,No,52,Yes,No,DSL,Yes,No,Yes,Yes,No,No,One year,No,Credit card (automatic),58,3042,No
+CHRISTOPHER104,Male,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,20,20,No
+CHRISTOPHER105,Male,0,Yes,Yes,40,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),110,4469,No
+CHRISTOPHER106,Male,0,No,No,31,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Bank transfer (automatic),72,2156,No
+CHRISTOPHER107,Female,0,Yes,Yes,8,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,94,777,Yes
+CHRISTOPHER108,Female,0,Yes,Yes,61,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,Yes,One year,Yes,Credit card (automatic),101,6019,No
+CHRISTOPHER109,Male,0,Yes,No,2,Yes,No,DSL,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Mailed check,64,144,No
+CHRISTOPHER110,Male,0,Yes,No,60,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Bank transfer (automatic),24,1506,No
+CHRISTOPHER111,Female,0,No,Yes,41,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),89,3645,No
+CHRISTOPHER112,Male,0,Yes,No,71,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,Two year,No,Bank transfer (automatic),65,4682,No
+CHRISTOPHER113,Female,0,Yes,No,58,Yes,Yes,DSL,Yes,No,No,Yes,No,No,One year,Yes,Bank transfer (automatic),61,3479,No
+CHRISTOPHER114,Female,0,Yes,Yes,13,Yes,No,DSL,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,56,734,Yes
+CHRISTOPHER115,Female,0,No,No,42,Yes,No,DSL,Yes,No,Yes,No,No,No,Month-to-month,No,Credit card (automatic),55,2455,No
+CHRISTOPHER116,Male,0,No,No,65,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Credit card (automatic),20,1219,No
+CHRISTOPHER117,Male,0,Yes,Yes,38,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),101,3957,No
+CHRISTOPHER118,Male,0,No,No,13,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,268,No
+CHRISTOPHER119,Female,0,Yes,No,42,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Credit card (automatic),20,870,No
+CHRISTOPHER120,Female,0,Yes,No,70,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),20,1398,No
+CHRISTOPHER121,Female,0,No,No,6,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),110,669,Yes
+CHRISTOPHER122,Male,0,No,No,9,Yes,Yes,DSL,No,No,No,No,No,Yes,Month-to-month,No,Mailed check,60,542,No
+CHRISTOPHER123,Female,0,No,No,8,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,50,366,Yes
+CHRISTOPHER124,Male,0,Yes,Yes,27,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,No,Month-to-month,Yes,Credit card (automatic),85,2152,No
+CHRISTOPHER125,Male,0,Yes,No,24,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,101,2392,Yes
+CHRISTOPHER126,Female,1,No,No,54,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,80,4370,Yes
+CHRISTOPHER127,Female,0,Yes,Yes,43,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,No,Mailed check,50,2169,No
+CHRISTOPHER128,Female,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,20,Yes
+CHRISTOPHER129,Male,0,Yes,Yes,42,No,Maryville,DSL,No,Yes,Yes,No,No,Yes,One year,Yes,Credit card (automatic),45,2049,No
+CHRISTOPHER130,Male,0,Yes,No,66,No,Maryville,DSL,Yes,Yes,Yes,Yes,Yes,No,Two year,Yes,Bank transfer (automatic),57,3789,No
+CHRISTOPHER131,Female,0,No,No,22,Yes,No,DSL,No,Yes,Yes,No,Yes,No,One year,No,Bank transfer (automatic),65,1442,No
+CHRISTOPHER132,Female,0,Yes,No,59,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),18,1058,No
+CHRISTOPHER133,Male,0,Yes,No,65,Yes,Yes,DSL,Yes,No,Yes,Yes,No,Yes,Two year,No,Bank transfer (automatic),76,4930,No
+CHRISTOPHER134,Male,0,Yes,Yes,66,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,84,5714,No
+CHRISTOPHER135,Female,0,Yes,No,63,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),82,5029,No
+CHRISTOPHER136,Female,1,No,No,21,No,Maryville,DSL,Yes,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,42,840,Yes
+CHRISTOPHER137,Male,1,No,No,26,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,94,2404,No
+CHRISTOPHER138,Female,0,No,No,38,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,743,No
+CHRISTOPHER139,Female,0,Yes,No,70,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,1328,No
+CHRISTOPHER140,Female,0,No,No,18,Yes,Yes,Fiber optic,No,No,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,90,1613,Yes
+CHRISTOPHER141,Female,0,Yes,Yes,58,Yes,Yes,DSL,No,Yes,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),67,3970,No
+CHRISTOPHER142,Male,1,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,44,44,No
+CHRISTOPHER143,Male,0,Yes,Yes,53,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,93,4779,No
+CHRISTOPHER144,Male,0,No,No,51,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,No,Bank transfer (automatic),81,4086,No
+CHRISTOPHER145,Male,0,No,Yes,27,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,21,582,No
+CHRISTOPHER146,Male,0,Yes,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,91,91,Yes
+CHRISTOPHER147,Male,0,Yes,No,67,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),25,1584,No
+CHRISTOPHER148,Male,0,No,No,12,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,81,912,No
+CHRISTOPHER149,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,46,46,No
+CHRISTOPHER150,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,71,71,No
+CHRISTOPHER151,Male,0,No,No,6,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,45,271,Yes
+CHRISTOPHER152,Female,0,Yes,No,14,Yes,Yes,DSL,Yes,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),65,941,Yes
+CHRISTOPHER153,Female,0,No,No,26,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,Yes,One year,Yes,Bank transfer (automatic),96,2475,No
+CHRISTOPHER154,Female,0,Yes,Yes,30,Yes,No,Fiber optic,No,No,Yes,No,No,Yes,One year,No,Electronic check,86,2538,No
+CHRISTOPHER155,Female,0,No,No,22,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,89,1908,Yes
+CHRISTOPHER156,Male,0,Yes,Yes,32,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,19,614,No
+CHRISTOPHER157,Female,0,Yes,Yes,30,No,Maryville,DSL,No,No,No,Yes,Yes,Yes,Month-to-month,No,Credit card (automatic),51,1562,Yes
+CHRISTOPHER158,Female,0,Yes,No,58,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),109,6145,Yes
+CHRISTOPHER159,Male,1,Yes,No,62,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,104,6383,Yes
+CHRISTOPHER160,Male,0,Yes,Yes,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,Two year,No,Bank transfer (automatic),82,5815,No
+CHRISTOPHER161,Male,0,Yes,Yes,13,Yes,No,DSL,No,Yes,Yes,Yes,No,No,Month-to-month,No,Bank transfer (automatic),62,750,No
+CHRISTOPHER162,Male,0,No,No,32,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Credit card (automatic),20,708,No
+CHRISTOPHER163,Female,0,No,No,5,Yes,No,DSL,Yes,No,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,64,353,No
+CHRISTOPHER164,Male,0,No,No,51,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Bank transfer (automatic),83,4149,No
+CHRISTOPHER165,Female,0,Yes,No,16,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,314,No
+CHRISTOPHER166,Male,1,No,No,52,No,Maryville,DSL,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),49,2555,No
+CHRISTOPHER167,Male,0,No,No,6,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,84,556,Yes
+CHRISTOPHER168,Female,0,Yes,No,69,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,116,8183,No
+CHRISTOPHER169,Male,0,Yes,No,15,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,101,1504,Yes
+CHRISTOPHER170,Female,0,Yes,Yes,65,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,No,Two year,Yes,Credit card (automatic),99,6417,No
+CHRISTOPHER171,Male,0,Yes,Yes,26,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,84,2071,Yes
+CHRISTOPHER172,Female,0,Yes,No,51,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,26,1281,No
+CHRISTOPHER173,Male,0,No,No,13,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),74,957,No
+CHRISTOPHER174,Male,0,Yes,No,34,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,100,3480,Yes
+CHRISTOPHER175,Female,1,No,No,43,Yes,No,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),108,4601,Yes
+CHRISTOPHER176,Male,0,Yes,Yes,39,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,One year,No,Credit card (automatic),80,3183,Yes
+CHRISTOPHER177,Male,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,80,181,Yes
+CHRISTOPHER178,Male,0,No,No,3,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Electronic check,21,77,No
+CHRISTOPHER179,Female,0,No,No,5,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),44,202,No
+CHRISTOPHER180,Male,0,No,No,25,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),74,1952,No
+CHRISTOPHER181,Male,0,Yes,Yes,25,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,One year,Yes,Electronic check,90,2179,Yes
+CHRISTOPHER182,Male,0,Yes,Yes,60,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,No,One year,Yes,Bank transfer (automatic),95,5812,No
+CHRISTOPHER183,Female,0,No,No,4,No,Maryville,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,34,138,Yes
+CHRISTOPHER184,Male,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,20,20,Yes
+CHRISTOPHER185,Male,0,Yes,Yes,55,Yes,No,DSL,No,No,Yes,Yes,No,No,Two year,Yes,Credit card (automatic),55,3120,No
+CHRISTOPHER186,Female,0,Yes,No,11,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,100,1057,Yes
+CHRISTOPHER187,Female,0,No,No,19,Yes,No,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,56,1093,No
+CHRISTOPHER188,Male,0,Yes,No,70,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),110,7535,Yes
+CHRISTOPHER189,Male,0,No,Yes,8,No,Maryville,DSL,Yes,No,No,Yes,No,Yes,Two year,Yes,Mailed check,45,343,No
+CHRISTOPHER190,Female,0,No,Yes,62,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,100,6414,Yes
+CHRISTOPHER191,Female,0,No,No,6,No,Maryville,DSL,Yes,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),29,161,No
+CHRISTOPHER192,Female,1,Yes,No,42,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),105,4599,No
+CHRISTOPHER193,Female,0,No,No,24,Yes,No,DSL,Yes,No,No,Yes,No,No,Month-to-month,No,Credit card (automatic),56,1381,No
+CHRISTOPHER194,Male,0,Yes,No,52,Yes,Yes,DSL,No,Yes,No,Yes,No,No,Month-to-month,No,Bank transfer (automatic),61,3170,No
+CHRISTOPHER195,Male,0,No,No,7,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,94,669,Yes
+CHRISTOPHER196,Female,1,No,No,31,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,100,3187,Yes
+CHRISTOPHER197,Female,1,No,No,2,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,44,89,No
+CHRISTOPHER198,Male,0,Yes,No,70,Yes,No,DSL,Yes,Yes,No,Yes,No,Yes,Two year,No,Mailed check,68,4664,No
+CHRISTOPHER199,Female,0,Yes,Yes,69,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),20,1413,No
+CHRISTOPHER200,Male,0,Yes,Yes,35,Yes,Yes,DSL,No,No,No,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),73,2661,No
+CHRISTOPHER201,Male,1,Yes,No,23,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,87,1976,No
+CHRISTOPHER202,Male,1,No,No,3,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,76,232,Yes
+CHRISTOPHER203,Female,0,Yes,Yes,15,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,273,No
+CHRISTOPHER204,Male,1,Yes,No,33,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),110,3695,No
+CHRISTOPHER205,Male,0,Yes,No,6,Yes,No,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,91,531,Yes
+CHRISTOPHER206,Female,0,Yes,Yes,24,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,One year,No,Bank transfer (automatic),83,2033,No
+CHRISTOPHER207,Female,0,No,No,68,No,Maryville,DSL,Yes,No,Yes,Yes,No,No,Two year,No,Mailed check,39,2719,No
+CHRISTOPHER208,Male,1,Yes,No,27,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,71,1944,No
+CHRISTOPHER209,Male,0,Yes,Yes,13,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Electronic check,73,930,No
+CHRISTOPHER210,Female,0,No,No,45,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,Yes,Electronic check,87,3942,Yes
+CHRISTOPHER211,Male,0,No,No,56,Yes,No,DSL,Yes,No,Yes,No,No,No,One year,No,Mailed check,53,3020,No
+CHRISTOPHER212,Male,1,No,No,71,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,25,1767,No
+CHRISTOPHER213,Male,0,Yes,Yes,34,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,No,Electronic check,78,2564,Yes
+CHRISTOPHER214,Male,0,Yes,No,71,No,Maryville,DSL,No,Yes,No,No,Yes,Yes,Two year,No,Electronic check,49,3515,Yes
+CHRISTOPHER215,Male,0,No,No,2,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,20,48,No
+CHRISTOPHER216,Male,0,Yes,Yes,14,Yes,No,DSL,Yes,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,65,938,Yes
+CHRISTOPHER217,Male,1,Yes,No,63,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Two year,No,Credit card (automatic),109,6992,No
+CHRISTOPHER218,Male,1,Yes,No,64,Yes,No,Fiber optic,Yes,No,Yes,No,No,No,One year,No,Credit card (automatic),80,5018,No
+CHRISTOPHER219,Female,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,45,45,No
+CHRISTOPHER220,Male,1,Yes,No,72,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Two year,No,Bank transfer (automatic),98,6929,No
+CHRISTOPHER221,Male,0,No,No,10,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,90,863,Yes
+CHRISTOPHER222,Male,1,No,No,2,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,45,94,Yes
+CHRISTOPHER223,Female,0,Yes,Yes,69,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Credit card (automatic),20,1443,No
+CHRISTOPHER224,Female,0,Yes,Yes,52,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,1071,No
+CHRISTOPHER225,Male,0,No,No,16,No,Maryville,DSL,Yes,Yes,Yes,Yes,Yes,No,Two year,No,Mailed check,55,916,No
+CHRISTOPHER226,Female,1,No,No,8,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,85,696,No
+CHRISTOPHER227,Male,0,Yes,Yes,0,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,26,#VALUE!,No
+CHRISTOPHER228,Female,1,Yes,No,58,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,One year,Yes,Bank transfer (automatic),98,5459,No
+CHRISTOPHER229,Male,1,Yes,Yes,64,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),112,7099,No
+CHRISTOPHER230,Female,0,No,No,35,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,No,Month-to-month,No,Credit card (automatic),85,2918,Yes
+CHRISTOPHER231,Male,0,No,No,7,No,Maryville,DSL,No,No,No,No,No,No,One year,Yes,Credit card (automatic),24,151,No
+CHRISTOPHER232,Male,0,No,No,30,Yes,Yes,DSL,Yes,No,No,No,No,Yes,Month-to-month,Yes,Mailed check,65,1888,No
+CHRISTOPHER233,Male,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,19,19,Yes
+CHRISTOPHER234,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,89,89,Yes
+CHRISTOPHER235,Female,0,No,No,67,Yes,No,DSL,Yes,Yes,No,Yes,No,No,One year,No,Credit card (automatic),61,3870,No
+CHRISTOPHER236,Male,0,No,No,3,Yes,No,Fiber optic,Yes,No,No,No,No,Yes,Month-to-month,Yes,Mailed check,86,245,No
+CHRISTOPHER237,Male,0,Yes,Yes,69,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Electronic check,105,7298,No
+CHRISTOPHER238,Male,0,Yes,No,66,Yes,Yes,DSL,Yes,Yes,Yes,No,No,No,Two year,Yes,Credit card (automatic),66,4428,No
+CHRISTOPHER239,Female,0,Yes,Yes,6,Yes,Yes,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,81,503,Yes
+CHRISTOPHER240,Male,0,No,No,30,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,One year,Yes,Bank transfer (automatic),97,3021,No
+CHRISTOPHER241,Male,1,Yes,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,74,74,No
+CHRISTOPHER242,Female,1,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,No,Electronic check,78,78,Yes
+CHRISTOPHER243,Female,0,Yes,Yes,12,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,19,234,Yes
+CHRISTOPHER244,Female,0,No,No,1,No,Maryville,DSL,No,Yes,No,No,No,No,Month-to-month,No,Bank transfer (automatic),30,30,Yes
+CHRISTOPHER245,Male,0,No,Yes,2,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,43,No
+CHRISTOPHER246,Female,0,Yes,No,22,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69,1554,Yes
+CHRISTOPHER247,Male,1,Yes,No,36,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,97,3436,Yes
+CHRISTOPHER248,Male,0,Yes,No,55,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,104,5743,Yes
+CHRISTOPHER249,Female,0,No,No,60,No,Maryville,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,51,3027,Yes
+CHRISTOPHER250,Female,0,Yes,Yes,10,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Bank transfer (automatic),20,197,No
+CHRISTOPHER251,Female,0,Yes,No,72,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Credit card (automatic),24,1776,No
+CHRISTOPHER252,Male,1,No,No,1,Yes,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,No,Electronic check,75,75,No
+CHRISTOPHER253,Female,0,No,No,54,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,Yes,One year,Yes,Credit card (automatic),100,5300,No
+CHRISTOPHER254,Male,1,No,No,2,Yes,No,DSL,No,No,Yes,No,No,No,Month-to-month,No,Mailed check,50,107,No
+CHRISTOPHER255,Female,0,Yes,No,72,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,109,8110,Yes
+CHRISTOPHER256,Female,0,Yes,No,71,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),104,7412,No
+CHRISTOPHER257,Male,0,Yes,No,10,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,100,991,Yes
+CHRISTOPHER258,Female,0,Yes,No,33,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,Yes,Month-to-month,Yes,Credit card (automatic),95,3008,No
+CHRISTOPHER259,Male,0,No,No,56,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,No,Electronic check,99,5581,No
+CHRISTOPHER260,Female,0,Yes,No,67,Yes,Yes,DSL,Yes,Yes,Yes,No,No,Yes,One year,No,Mailed check,75,5064,No
+CHRISTOPHER261,Male,0,Yes,Yes,65,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),104,6700,No
+CHRISTOPHER262,Male,0,No,No,3,Yes,No,DSL,Yes,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,77,206,No
+CHRISTOPHER263,Male,0,No,No,50,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,No,Credit card (automatic),114,5791,No
+CHRISTOPHER264,Male,0,Yes,No,56,Yes,Yes,DSL,No,Yes,Yes,No,No,No,Two year,No,Credit card (automatic),60,3389,No
+CHRISTOPHER265,Female,0,Yes,No,37,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,100,3762,Yes
+CHRISTOPHER266,Female,0,Yes,No,63,Yes,Yes,DSL,Yes,Yes,No,No,Yes,Yes,One year,Yes,Credit card (automatic),80,4786,No
+CHRISTOPHER267,Male,0,Yes,Yes,44,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Bank transfer (automatic),21,865,No
+CHRISTOPHER268,Male,1,No,No,21,Yes,No,DSL,No,No,Yes,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),60,1236,Yes
+CHRISTOPHER269,Female,0,No,No,72,Yes,No,DSL,Yes,Yes,Yes,Yes,No,Yes,Two year,Yes,Credit card (automatic),73,5265,No
+CHRISTOPHER270,Male,0,Yes,Yes,42,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,19,867,No
+CHRISTOPHER271,Female,1,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,70,Yes
+CHRISTOPHER272,Male,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Bank transfer (automatic),21,21,No
+CHRISTOPHER273,Male,0,No,No,40,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,25,974,No
+CHRISTOPHER274,Female,1,No,No,23,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,79,1835,No
+CHRISTOPHER275,Female,1,No,No,18,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Credit card (automatic),50,866,No
+CHRISTOPHER276,Female,0,Yes,No,32,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Bank transfer (automatic),19,641,No
+CHRISTOPHER277,Male,0,No,No,32,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,20,608,No
+CHRISTOPHER278,Male,0,Yes,No,70,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,No,Yes,Two year,Yes,Bank transfer (automatic),99,6859,No
+CHRISTOPHER279,Male,0,Yes,Yes,3,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,No,Electronic check,90,248,No
+CHRISTOPHER280,Male,1,Yes,No,20,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Month-to-month,No,Electronic check,107,2172,No
+CHRISTOPHER281,Male,0,No,No,28,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),95,2659,Yes
+CHRISTOPHER282,Female,0,No,No,7,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,100,715,No
+CHRISTOPHER283,Male,0,Yes,No,71,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Electronic check,21,1540,No
+CHRISTOPHER284,Female,0,Yes,No,49,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),52,2584,No
+CHRISTOPHER285,Male,0,No,No,3,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,79,242,Yes
+CHRISTOPHER286,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,71,71,Yes
+CHRISTOPHER287,Female,0,No,No,46,Yes,No,DSL,No,No,No,No,No,Yes,One year,No,Credit card (automatic),56,2689,No
+CHRISTOPHER288,Male,0,Yes,Yes,25,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Electronic check,20,411,No
+CHRISTOPHER289,Male,0,Yes,No,53,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,No,One year,No,Bank transfer (automatic),77,4156,No
+CHRISTOPHER290,Female,1,No,No,16,Yes,No,DSL,No,No,No,Yes,Yes,No,Month-to-month,No,Electronic check,59,1024,Yes
+CHRISTOPHER291,Male,0,No,No,2,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,75,145,No
+CHRISTOPHER292,Female,0,Yes,Yes,66,Yes,No,DSL,No,No,No,Yes,No,No,One year,Yes,Credit card (automatic),49,3252,No
+CHRISTOPHER293,Male,0,No,No,28,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,One year,No,Electronic check,100,2688,No
+CHRISTOPHER294,Female,0,Yes,No,17,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,79,1349,No
+CHRISTOPHER295,Female,0,No,No,12,Yes,No,Fiber optic,Yes,No,No,No,Yes,No,One year,Yes,Credit card (automatic),85,979,No
+CHRISTOPHER296,Male,0,No,No,17,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,26,440,No
+CHRISTOPHER297,Male,1,Yes,No,30,Yes,No,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Mailed check,80,2365,Yes
+CHRISTOPHER298,Female,0,No,No,1,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,25,25,Yes
+CHRISTOPHER299,Male,0,No,No,5,No,Maryville,DSL,Yes,Yes,Yes,Yes,No,No,Month-to-month,Yes,Mailed check,43,219,Yes
+CHRISTOPHER300,Male,0,Yes,Yes,54,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,One year,Yes,Electronic check,105,5638,No
+CHRISTOPHER301,Female,0,Yes,Yes,65,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,Two year,Yes,Credit card (automatic),104,6725,No
+CHRISTOPHER302,Male,0,Yes,Yes,44,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Bank transfer (automatic),20,861,No
+CHRISTOPHER303,Male,0,No,No,7,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,75,491,No
+CHRISTOPHER304,Male,1,Yes,Yes,61,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,One year,No,Electronic check,99,5969,No
+CHRISTOPHER305,Female,0,Yes,Yes,72,No,Maryville,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),64,4684,No
+CHRISTOPHER306,Female,0,No,No,3,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),75,271,Yes
+CHRISTOPHER307,Female,0,No,No,21,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69,1493,No
+CHRISTOPHER308,Female,0,Yes,No,24,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),99,2431,Yes
+CHRISTOPHER309,Male,0,Yes,Yes,4,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),85,372,Yes
+CHRISTOPHER310,Female,0,No,No,52,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),50,2536,No
+CHRISTOPHER311,Male,1,Yes,No,58,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,109,6287,Yes
+CHRISTOPHER312,Male,0,No,No,39,No,Maryville,DSL,Yes,Yes,No,Yes,Yes,No,Month-to-month,Yes,Credit card (automatic),49,1881,Yes
+CHRISTOPHER313,Male,0,No,No,16,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,20,342,Yes
+CHRISTOPHER314,Female,0,Yes,Yes,7,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Electronic check,76,554,No
+CHRISTOPHER315,Female,0,No,No,8,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,142,No
+CHRISTOPHER316,Female,0,No,No,9,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Credit card (automatic),20,148,No
+CHRISTOPHER317,Female,0,Yes,No,46,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),109,4854,No
+CHRISTOPHER318,Male,0,No,Yes,53,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,Yes,One year,No,Electronic check,96,5037,No
+CHRISTOPHER319,Female,1,No,No,30,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,100,2967,Yes
+CHRISTOPHER320,Male,0,Yes,Yes,31,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,No,One year,No,Bank transfer (automatic),98,3082,No
+CHRISTOPHER321,Male,0,No,No,24,Yes,No,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,96,2122,Yes
+CHRISTOPHER322,Male,0,Yes,No,60,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,96,5743,Yes
+CHRISTOPHER323,Male,0,Yes,Yes,72,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),21,1494,No
+CHRISTOPHER324,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,44,44,No
+CHRISTOPHER325,Female,0,Yes,No,49,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Bank transfer (automatic),20,973,No
+CHRISTOPHER326,Male,0,No,No,48,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),108,5067,No
+CHRISTOPHER327,Female,0,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Mailed check,86,86,Yes
+CHRISTOPHER328,Male,1,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,45,45,No
+CHRISTOPHER329,Male,0,Yes,No,69,No,Maryville,DSL,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Credit card (automatic),61,4263,No
+CHRISTOPHER330,Male,0,Yes,No,64,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Electronic check,105,6823,No
+CHRISTOPHER331,Female,0,No,No,3,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),74,216,Yes
+CHRISTOPHER332,Male,0,Yes,Yes,59,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,87,5186,No
+CHRISTOPHER333,Male,0,No,No,24,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Month-to-month,No,Bank transfer (automatic),60,1441,No
+CHRISTOPHER334,Male,0,No,No,7,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,100,673,Yes
+CHRISTOPHER335,Female,0,Yes,No,71,No,Maryville,DSL,Yes,Yes,Yes,Yes,No,No,Two year,Yes,Bank transfer (automatic),48,3378,No
+CHRISTOPHER336,Female,0,No,Yes,35,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,50,1655,No
+CHRISTOPHER337,Male,0,Yes,No,53,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,Yes,One year,No,Bank transfer (automatic),98,5043,No
+CHRISTOPHER338,Female,0,No,Yes,46,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,100,4391,No
+CHRISTOPHER339,Female,0,Yes,Yes,14,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Mailed check,20,272,No
+CHRISTOPHER340,Male,0,Yes,No,51,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),83,4089,No
+CHRISTOPHER341,Female,1,No,No,4,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95,396,Yes
+CHRISTOPHER342,Female,0,Yes,Yes,10,Yes,No,DSL,No,Yes,Yes,No,No,No,Month-to-month,Yes,Mailed check,56,551,No
+CHRISTOPHER343,Male,1,Yes,No,72,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),104,7690,Yes
+CHRISTOPHER344,Male,0,No,No,4,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Electronic check,20,56,No
+CHRISTOPHER345,Female,0,No,Yes,39,No,Maryville,DSL,No,No,Yes,No,No,No,Month-to-month,No,Credit card (automatic),30,1131,Yes
+CHRISTOPHER346,Female,0,Yes,Yes,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,72,136,No
+CHRISTOPHER347,Female,1,No,No,56,Yes,Yes,DSL,Yes,No,Yes,Yes,No,Yes,Two year,No,Bank transfer (automatic),73,4054,No
+CHRISTOPHER348,Male,0,No,No,13,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Mailed check,51,611,No
+CHRISTOPHER349,Female,0,No,No,12,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),44,541,No
+CHRISTOPHER350,Female,1,Yes,No,42,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),74,3229,Yes
+CHRISTOPHER351,Female,0,Yes,Yes,48,No,Maryville,DSL,Yes,No,Yes,No,No,Yes,One year,No,Credit card (automatic),45,2196,No
+CHRISTOPHER352,Female,0,Yes,Yes,63,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,101,6215,Yes
+CHRISTOPHER353,Male,0,Yes,Yes,71,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),90,6287,No
+CHRISTOPHER354,Male,0,Yes,Yes,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,46,46,Yes
+CHRISTOPHER355,Male,0,No,No,10,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Mailed check,70,736,No
+CHRISTOPHER356,Female,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Bank transfer (automatic),20,20,No
+CHRISTOPHER357,Female,0,Yes,Yes,61,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,24,1552,No
+CHRISTOPHER358,Male,1,No,No,8,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,101,819,Yes
+CHRISTOPHER359,Male,1,Yes,No,51,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),94,4751,Yes
+CHRISTOPHER360,Female,0,Yes,Yes,45,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Bank transfer (automatic),25,1139,No
+CHRISTOPHER361,Female,0,No,No,40,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,No,Credit card (automatic),75,2972,No
+CHRISTOPHER362,Female,0,No,No,4,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,94,362,Yes
+CHRISTOPHER363,Female,0,No,No,18,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,71,1248,No
+CHRISTOPHER364,Male,1,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,No,Two year,Yes,Bank transfer (automatic),93,6735,No
+CHRISTOPHER365,Male,1,Yes,No,46,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,99,4565,No
+CHRISTOPHER366,Male,0,No,No,27,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,470,No
+CHRISTOPHER367,Female,0,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,Two year,No,Bank transfer (automatic),101,7334,No
+CHRISTOPHER368,Male,0,No,Yes,48,Yes,Yes,DSL,Yes,No,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),79,3682,No
+CHRISTOPHER369,Male,1,No,No,57,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),105,5914,No
+CHRISTOPHER370,Female,0,No,No,4,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,79,317,Yes
+CHRISTOPHER371,Male,0,Yes,No,24,Yes,Yes,DSL,Yes,No,No,Yes,No,No,One year,Yes,Electronic check,58,1347,No
+CHRISTOPHER372,Male,0,Yes,No,31,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,94,2940,No
+CHRISTOPHER373,Female,0,No,No,15,Yes,No,DSL,Yes,No,Yes,Yes,No,No,Month-to-month,No,Electronic check,59,955,No
+CHRISTOPHER374,Male,0,No,Yes,32,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,One year,No,Credit card (automatic),84,2633,No
+CHRISTOPHER375,Male,0,Yes,Yes,64,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,Yes,Two year,No,Bank transfer (automatic),93,5822,No
+CHRISTOPHER376,Male,0,No,No,4,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,19,93,No
+CHRISTOPHER377,Male,0,Yes,Yes,25,Yes,Yes,DSL,No,No,No,Yes,No,No,One year,Yes,Mailed check,55,1466,No
+CHRISTOPHER378,Female,0,Yes,Yes,69,Yes,No,DSL,No,Yes,Yes,Yes,No,No,One year,No,Bank transfer (automatic),59,4135,No
+CHRISTOPHER379,Male,0,No,Yes,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),70,70,Yes
+CHRISTOPHER380,Male,1,Yes,Yes,8,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),80,583,Yes
+CHRISTOPHER381,Male,0,No,Yes,8,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,26,215,Yes
+CHRISTOPHER382,Female,0,Yes,No,72,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),86,6059,No
+CHRISTOPHER383,Female,0,No,No,4,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),70,267,Yes
+CHRISTOPHER384,Female,0,Yes,Yes,71,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,1416,No
+CHRISTOPHER385,Male,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,68,117,Yes
+CHRISTOPHER386,Female,1,No,No,2,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),84,164,No
+CHRISTOPHER387,Male,1,No,No,65,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,109,7108,No
+CHRISTOPHER388,Female,0,Yes,No,57,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Bank transfer (automatic),20,1134,No
+CHRISTOPHER389,Female,1,Yes,No,22,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,Month-to-month,Yes,Mailed check,64,1382,No
+CHRISTOPHER390,Male,0,Yes,No,49,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,One year,Yes,Credit card (automatic),99,4921,No
+CHRISTOPHER391,Male,0,No,No,69,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,One year,Yes,Credit card (automatic),79,5356,Yes
+CHRISTOPHER392,Female,0,Yes,No,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),88,6521,No
+CHRISTOPHER393,Male,0,Yes,Yes,2,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Two year,No,Mailed check,60,131,No
+CHRISTOPHER394,Male,0,No,No,12,Yes,No,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),82,859,Yes
+CHRISTOPHER395,Male,0,No,No,4,Yes,No,DSL,Yes,No,Yes,No,No,No,Month-to-month,No,Electronic check,57,245,No
+CHRISTOPHER396,Female,1,No,No,15,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,92,1400,No
+CHRISTOPHER397,Female,0,No,No,1,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,50,50,No
+CHRISTOPHER398,Female,0,Yes,No,67,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,111,7512,No
+CHRISTOPHER399,Male,0,Yes,Yes,10,Yes,No,DSL,No,Yes,No,No,No,No,One year,No,Mailed check,50,476,No
+CHRISTOPHER400,Female,0,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,77,77,Yes
+CHRISTOPHER401,Female,0,No,No,22,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,50,1049,No
+CHRISTOPHER402,Male,0,No,No,40,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Mailed check,103,4108,No
+CHRISTOPHER403,Male,0,Yes,No,40,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,101,4113,Yes
+CHRISTOPHER404,Male,0,Yes,Yes,27,No,Maryville,DSL,No,Yes,Yes,No,No,Yes,One year,Yes,Credit card (automatic),46,1246,No
+CHRISTOPHER405,Female,0,No,Yes,31,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),87,2697,Yes
+CHRISTOPHER406,Female,0,No,Yes,13,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),89,1162,No
+CHRISTOPHER407,Female,0,Yes,Yes,58,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,20,1159,No
+CHRISTOPHER408,Female,0,No,No,40,No,Maryville,DSL,Yes,No,No,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),55,2236,No
+CHRISTOPHER409,Male,1,No,No,5,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Bank transfer (automatic),20,94,No
+CHRISTOPHER410,Male,0,Yes,No,14,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,86,1236,Yes
+CHRISTOPHER411,Male,1,No,No,7,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Mailed check,74,545,Yes
+CHRISTOPHER412,Male,0,Yes,Yes,71,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,No,Two year,Yes,Electronic check,85,6152,No
+CHRISTOPHER413,Female,1,Yes,No,71,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,Two year,Yes,Electronic check,99,7168,No
+CHRISTOPHER414,Male,1,Yes,No,72,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Bank transfer (automatic),25,1803,No
+CHRISTOPHER415,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,45,45,No
+CHRISTOPHER416,Female,0,No,Yes,34,Yes,No,DSL,Yes,No,Yes,Yes,Yes,No,Two year,No,Credit card (automatic),68,2339,No
+CHRISTOPHER417,Male,0,Yes,No,30,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,19,638,No
+CHRISTOPHER418,Male,0,Yes,No,29,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,84,2467,Yes
+CHRISTOPHER419,Female,0,No,No,16,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,86,1340,No
+CHRISTOPHER420,Male,0,No,No,7,No,Maryville,DSL,No,No,Yes,Yes,No,No,One year,Yes,Credit card (automatic),36,250,No
+CHRISTOPHER421,Female,0,No,Yes,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,46,46,Yes
+CHRISTOPHER422,Male,0,No,No,72,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),101,7459,No
+CHRISTOPHER423,Male,0,No,No,50,No,Maryville,DSL,Yes,No,No,Yes,No,No,One year,Yes,Mailed check,35,1749,No
+CHRISTOPHER424,Female,0,Yes,Yes,8,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Mailed check,20,145,Yes
+CHRISTOPHER425,Male,0,Yes,Yes,2,Yes,No,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,97,184,No
+CHRISTOPHER426,Male,0,No,No,31,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,101,3144,No
+CHRISTOPHER427,Female,1,Yes,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,70,70,Yes
+CHRISTOPHER428,Female,1,No,No,3,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,87,221,Yes
+CHRISTOPHER429,Female,0,Yes,Yes,8,Yes,No,DSL,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,69,564,No
+CHRISTOPHER430,Male,1,Yes,No,1,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95,95,Yes
+CHRISTOPHER431,Female,1,No,No,52,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,No,Credit card (automatic),108,5839,No
+CHRISTOPHER432,Female,1,Yes,No,44,Yes,No,Fiber optic,Yes,Yes,No,Yes,No,No,Month-to-month,Yes,Electronic check,85,3671,No
+CHRISTOPHER433,Male,0,No,No,18,Yes,No,DSL,No,No,Yes,Yes,No,No,Month-to-month,No,Credit card (automatic),55,1058,No
+CHRISTOPHER434,Female,0,No,No,13,Yes,No,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Electronic check,79,1112,Yes
+CHRISTOPHER435,Male,0,No,No,6,Yes,Yes,Fiber optic,No,No,No,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),88,522,No
+CHRISTOPHER436,Male,0,No,No,7,Yes,No,DSL,No,No,Yes,Yes,Yes,No,Month-to-month,No,Bank transfer (automatic),64,446,No
+CHRISTOPHER437,Female,0,Yes,Yes,68,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,Two year,Yes,Credit card (automatic),84,5747,No
+CHRISTOPHER438,Male,0,Yes,Yes,11,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Bank transfer (automatic),21,267,No
+CHRISTOPHER439,Male,0,No,No,63,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,25,1559,No
+CHRISTOPHER440,Male,0,No,No,66,Yes,No,DSL,Yes,Yes,No,No,No,No,One year,Yes,Mailed check,55,3466,No
+CHRISTOPHER441,Female,0,Yes,Yes,58,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Credit card (automatic),25,1498,No
+CHRISTOPHER442,Male,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,20,20,No
+CHRISTOPHER443,Female,0,Yes,Yes,65,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,90,5958,No
+CHRISTOPHER444,Female,0,No,No,9,Yes,No,DSL,No,No,No,Yes,Yes,No,Month-to-month,Yes,Bank transfer (automatic),60,530,No
+CHRISTOPHER445,Male,0,No,No,54,No,Maryville,DSL,Yes,Yes,No,No,No,Yes,Two year,No,Bank transfer (automatic),46,2432,No
+CHRISTOPHER446,Male,0,No,No,10,No,Maryville,DSL,No,Yes,No,Yes,No,No,Month-to-month,No,Electronic check,36,390,No
+CHRISTOPHER447,Female,0,Yes,Yes,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Credit card (automatic),20,20,Yes
+CHRISTOPHER448,Male,0,Yes,Yes,12,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Bank transfer (automatic),25,313,No
+CHRISTOPHER449,Female,0,Yes,Yes,3,Yes,No,DSL,No,Yes,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),59,169,No
+CHRISTOPHER450,Female,0,No,No,11,Yes,Yes,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Mailed check,59,602,No
+CHRISTOPHER451,Male,0,Yes,No,60,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),109,6573,No
+CHRISTOPHER452,Male,0,No,No,22,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,101,2095,Yes
+CHRISTOPHER453,Female,0,Yes,Yes,1,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,102,102,Yes
+CHRISTOPHER454,Female,0,Yes,Yes,55,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,1079,No
+CHRISTOPHER455,Male,0,Yes,No,65,Yes,Yes,DSL,Yes,Yes,Yes,No,No,No,One year,No,Credit card (automatic),67,4310,No
+CHRISTOPHER456,Male,0,Yes,Yes,47,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,Yes,One year,Yes,Electronic check,96,4391,No
+CHRISTOPHER457,Female,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,19,19,No
+CHRISTOPHER458,Male,0,No,Yes,16,Yes,Yes,DSL,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,69,1084,No
+CHRISTOPHER459,Female,0,Yes,No,11,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,44,484,Yes
+CHRISTOPHER460,Female,1,No,No,24,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,20,460,No
+CHRISTOPHER461,Male,0,Yes,Yes,25,Yes,No,Fiber optic,No,No,No,Yes,Yes,No,Month-to-month,No,Electronic check,86,2199,No
+CHRISTOPHER462,Male,0,No,No,52,Yes,No,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,Yes,Credit card (automatic),84,4331,No
+CHRISTOPHER463,Female,0,Yes,Yes,47,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),85,4107,No
+CHRISTOPHER464,Male,0,No,No,42,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Mailed check,20,839,No
+CHRISTOPHER465,Female,0,Yes,Yes,57,Yes,No,DSL,Yes,No,No,No,Yes,Yes,One year,Yes,Bank transfer (automatic),70,3913,Yes
+CHRISTOPHER466,Male,0,No,No,57,Yes,No,DSL,No,Yes,No,Yes,No,No,One year,Yes,Mailed check,55,3135,No
+CHRISTOPHER467,Male,1,Yes,No,24,No,Maryville,DSL,No,No,Yes,Yes,No,No,Month-to-month,No,Mailed check,34,828,No
+CHRISTOPHER468,Male,0,No,No,34,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,50,1734,No
+CHRISTOPHER469,Female,0,Yes,No,60,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,106,6411,No
+CHRISTOPHER470,Female,0,Yes,Yes,14,Yes,No,Fiber optic,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Credit card (automatic),90,1208,Yes
+CHRISTOPHER471,Male,1,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,45,45,Yes
+CHRISTOPHER472,Male,1,No,No,5,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,91,450,Yes
+CHRISTOPHER473,Female,0,No,No,1,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,50,50,Yes
+CHRISTOPHER474,Female,1,No,No,7,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,48,340,No
+CHRISTOPHER475,Female,0,No,No,2,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,20,41,No
+CHRISTOPHER476,Male,0,No,Yes,41,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,111,4507,No
+CHRISTOPHER477,Male,1,Yes,Yes,52,Yes,Yes,DSL,No,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,81,4080,No
+CHRISTOPHER478,Female,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Bank transfer (automatic),19,19,No
+CHRISTOPHER479,Male,0,No,No,10,Yes,No,DSL,Yes,No,No,Yes,Yes,No,Month-to-month,No,Bank transfer (automatic),62,613,No
+CHRISTOPHER480,Female,0,No,No,2,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,80,152,No
+CHRISTOPHER481,Female,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,20,20,No
+CHRISTOPHER482,Female,0,No,No,14,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,86,1181,Yes
+CHRISTOPHER483,Male,0,No,No,35,No,Maryville,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,49,1702,No
+CHRISTOPHER484,Male,0,No,No,3,Yes,No,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,No,Electronic check,90,268,No
+CHRISTOPHER485,Male,0,No,No,72,No,Maryville,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),64,4465,No
+CHRISTOPHER486,Female,0,No,No,687,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,150,50,No
+CHRISTOPHER487,Female,0,Yes,Yes,4,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,76,Yes
+CHRISTOPHER488,Male,0,No,No,62,No,Maryville,DSL,Yes,Yes,Yes,Yes,No,No,Two year,Yes,Bank transfer (automatic),44,2618,No
+CHRISTOPHER489,Female,0,Yes,Yes,71,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,91,6294,No
+CHRISTOPHER490,Male,0,Yes,No,67,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),26,1785,No
+CHRISTOPHER491,Female,0,No,No,7,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,75,525,No
+CHRISTOPHER492,Male,1,No,No,4,No,Maryville,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),51,207,No
+CHRISTOPHER493,Female,0,Yes,Yes,4,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,50,217,No
+CHRISTOPHER494,Male,0,Yes,No,72,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,95,6747,No
+CHRISTOPHER495,Female,0,No,No,20,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,No,Credit card (automatic),25,506,No
+CHRISTOPHER496,Female,0,No,No,39,Yes,No,DSL,No,No,No,Yes,No,Yes,One year,No,Electronic check,59,2209,No
+CHRISTOPHER497,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,82,82,Yes
+CHRISTOPHER498,Male,1,Yes,No,14,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,20,229,No
+CHRISTOPHER499,Male,0,Yes,Yes,71,Yes,No,DSL,Yes,No,Yes,Yes,No,Yes,Two year,Yes,Credit card (automatic),71,4973,No
+CHRISTOPHER500,Male,0,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),114,8375,No
+CHRISTOPHER501,Female,1,No,No,11,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),85,907,Yes
+CHRISTOPHER502,Male,0,No,No,50,Yes,No,Fiber optic,Yes,Yes,No,Yes,No,Yes,Month-to-month,Yes,Credit card (automatic),94,4748,No
+CHRISTOPHER503,Male,0,Yes,Yes,2,Yes,No,Fiber optic,No,No,Yes,Yes,No,Yes,Month-to-month,No,Credit card (automatic),90,190,Yes
+CHRISTOPHER504,Male,0,No,No,3,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),74,233,No
+CHRISTOPHER505,Female,1,No,No,2,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,75,158,Yes
+CHRISTOPHER506,Male,0,No,Yes,39,No,Maryville,DSL,Yes,No,No,Yes,Yes,No,One year,No,Bank transfer (automatic),45,1791,No
+CHRISTOPHER507,Female,1,Yes,Yes,70,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,108,7476,No
+CHRISTOPHER508,Female,0,No,No,15,Yes,No,DSL,No,No,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,59,893,Yes
+CHRISTOPHER509,Female,0,Yes,No,71,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Credit card (automatic),24,1725,No
+CHRISTOPHER510,Female,0,Yes,Yes,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,70,Yes
+CHRISTOPHER511,Female,0,Yes,Yes,42,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Electronic check,19,762,No
+CHRISTOPHER512,Female,1,Yes,No,62,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,105,6313,No
+CHRISTOPHER513,Female,0,Yes,Yes,23,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,25,611,No
+CHRISTOPHER514,Female,0,No,No,50,Yes,Yes,DSL,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Mailed check,80,4024,No
+CHRISTOPHER515,Male,0,No,Yes,6,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,112,No
+CHRISTOPHER516,Female,1,No,No,64,Yes,Yes,DSL,No,Yes,Yes,Yes,No,Yes,Month-to-month,No,Credit card (automatic),75,4869,No
+CHRISTOPHER517,Male,0,Yes,Yes,36,Yes,No,DSL,Yes,Yes,No,No,No,No,One year,No,Mailed check,54,1939,No
+CHRISTOPHER518,Female,0,Yes,No,47,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,101,4707,No
+CHRISTOPHER519,Female,0,No,No,47,Yes,No,DSL,No,No,Yes,Yes,Yes,Yes,Two year,No,Mailed check,74,3510,No
+CHRISTOPHER520,Female,1,Yes,Yes,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),88,6426,No
+CHRISTOPHER521,Female,0,No,No,35,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,21,700,No
+CHRISTOPHER522,Female,0,No,No,3,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,No,Electronic check,95,293,No
+CHRISTOPHER523,Male,0,No,No,24,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,80,1862,Yes
+CHRISTOPHER524,Female,0,Yes,No,38,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Credit card (automatic),20,815,No
+CHRISTOPHER525,Female,0,No,No,34,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,105,3635,No
+CHRISTOPHER526,Male,0,No,No,38,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,No,One year,No,Bank transfer (automatic),95,3606,No
+CHRISTOPHER527,Female,0,Yes,Yes,64,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,24,1559,No
+CHRISTOPHER528,Female,0,No,No,5,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,80,413,Yes
+CHRISTOPHER529,Female,0,No,No,3,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,25,59,Yes
+CHRISTOPHER530,Female,0,Yes,Yes,8,Yes,Yes,DSL,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,56,447,No
+CHRISTOPHER531,Male,0,Yes,No,71,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),86,6046,No
+CHRISTOPHER532,Male,1,Yes,No,8,No,Maryville,DSL,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Mailed check,43,371,No
+CHRISTOPHER533,Female,0,No,No,16,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),75,1129,No
+CHRISTOPHER534,Male,0,No,No,40,No,Maryville,DSL,No,Yes,No,Yes,No,No,One year,No,Credit card (automatic),36,1383,No
+CHRISTOPHER535,Female,1,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),116,8444,No
+CHRISTOPHER536,Male,0,No,No,9,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,25,190,No
+CHRISTOPHER537,Female,0,Yes,Yes,60,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Credit card (automatic),19,1103,No
+CHRISTOPHER538,Female,0,Yes,Yes,51,No,Maryville,DSL,No,No,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,56,2899,No
+CHRISTOPHER539,Male,0,Yes,Yes,32,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),70,2348,Yes
+CHRISTOPHER540,Male,0,Yes,No,34,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,101,3527,No
+CHRISTOPHER541,Male,0,Yes,Yes,62,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,106,6487,No
+CHRISTOPHER542,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,70,70,Yes
+CHRISTOPHER543,Male,1,No,No,7,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,85,547,Yes
+CHRISTOPHER544,Male,0,Yes,No,52,Yes,No,Fiber optic,Yes,No,No,No,Yes,No,Month-to-month,No,Electronic check,84,4349,Yes
+CHRISTOPHER545,Female,1,Yes,No,3,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,80,224,Yes
+CHRISTOPHER546,Male,0,Yes,Yes,38,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,95,3624,Yes
+CHRISTOPHER547,Male,0,Yes,No,23,Yes,No,DSL,Yes,No,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),60,1406,No
+CHRISTOPHER548,Female,0,Yes,No,21,Yes,No,Fiber optic,No,No,Yes,Yes,No,No,One year,No,Electronic check,79,1742,No
+CHRISTOPHER549,Male,0,No,No,15,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,312,No
+CHRISTOPHER550,Female,0,Yes,No,17,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,93,1580,No
+CHRISTOPHER551,Male,1,No,No,67,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),101,6841,No
+CHRISTOPHER552,Female,0,Yes,Yes,65,Yes,Yes,DSL,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),79,5072,No
+CHRISTOPHER553,Female,0,No,No,46,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),45,2169,No
+CHRISTOPHER554,Female,0,Yes,Yes,34,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),25,894,No
+CHRISTOPHER555,Male,0,Yes,Yes,0,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,25,#VALUE!,No
+CHRISTOPHER556,Female,1,Yes,No,47,Yes,Yes,DSL,Yes,Yes,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),67,3252,No
+CHRISTOPHER557,Male,0,Yes,Yes,53,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,105,5576,No
+CHRISTOPHER558,Female,0,No,Yes,14,Yes,No,DSL,No,No,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),60,825,No
+CHRISTOPHER559,Male,0,No,No,65,Yes,Yes,DSL,No,Yes,Yes,Yes,No,Yes,Two year,Yes,Credit card (automatic),74,4806,No
+CHRISTOPHER560,Male,1,No,No,24,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,76,1713,Yes
+CHRISTOPHER561,Male,0,No,No,3,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,108,319,No
+CHRISTOPHER562,Male,0,No,Yes,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,72,72,Yes
+CHRISTOPHER563,Male,0,No,No,57,No,Maryville,DSL,No,No,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),53,3090,No
+CHRISTOPHER564,Female,0,No,No,36,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,No,One year,Yes,Mailed check,76,2606,No
+CHRISTOPHER565,Female,1,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,79,79,Yes
+CHRISTOPHER566,Female,0,Yes,Yes,24,Yes,No,DSL,Yes,No,No,Yes,No,No,Month-to-month,No,Electronic check,55,1320,No
+CHRISTOPHER567,Female,0,No,No,61,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,119,7366,No
+CHRISTOPHER568,Female,0,Yes,Yes,65,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,106,6986,Yes
+CHRISTOPHER569,Male,0,Yes,No,24,Yes,No,DSL,Yes,No,No,Yes,No,No,Month-to-month,No,Mailed check,54,1315,No
+CHRISTOPHER570,Female,0,Yes,No,53,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),112,5810,No
+CHRISTOPHER571,Male,0,Yes,Yes,39,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,24,904,No
+CHRISTOPHER572,Male,0,No,No,22,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,70,1490,No
+CHRISTOPHER573,Female,0,Yes,No,16,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,No,Month-to-month,No,Electronic check,91,1375,No
+CHRISTOPHER574,Male,0,Yes,No,72,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),111,8241,No
+CHRISTOPHER575,Male,0,Yes,Yes,72,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Electronic check,20,1354,No
+CHRISTOPHER576,Female,0,Yes,Yes,60,No,Maryville,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),60,3590,No
+CHRISTOPHER577,Female,0,Yes,Yes,58,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,Yes,One year,No,Credit card (automatic),99,5847,No
+CHRISTOPHER578,Female,1,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,72,72,No
+CHRISTOPHER579,Male,0,Yes,Yes,17,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,25,413,No
+CHRISTOPHER580,Male,0,No,No,22,No,Maryville,DSL,No,No,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),57,1305,No
+CHRISTOPHER581,Female,0,Yes,No,55,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),90,4960,No
+CHRISTOPHER582,Female,0,No,No,66,No,Maryville,DSL,Yes,Yes,Yes,Yes,No,No,Two year,Yes,Mailed check,47,3177,No
+CHRISTOPHER583,Male,0,Yes,No,29,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Electronic check,86,2440,No
+CHRISTOPHER584,Male,1,No,No,36,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,91,3187,Yes
+CHRISTOPHER585,Female,0,No,No,2,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95,197,Yes
+CHRISTOPHER586,Female,0,Yes,No,33,No,Maryville,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),60,2016,No
+CHRISTOPHER587,Female,1,No,No,2,No,Maryville,DSL,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,30,79,Yes
+CHRISTOPHER588,Male,1,Yes,No,11,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,835,No
+CHRISTOPHER589,Male,0,Yes,Yes,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,19,19,No
+CHRISTOPHER590,Male,0,Yes,No,72,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),111,7962,No
+CHRISTOPHER591,Male,0,No,No,4,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,50,207,Yes
+CHRISTOPHER592,Female,0,Yes,Yes,5,No,Maryville,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,31,167,No
+CHRISTOPHER593,Female,0,Yes,Yes,70,Yes,Yes,DSL,Yes,Yes,No,No,Yes,No,Two year,Yes,Credit card (automatic),69,4872,No
+CHRISTOPHER594,Male,1,No,No,33,No,Maryville,DSL,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,55,1804,No
+CHRISTOPHER595,Male,0,No,No,17,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Credit card (automatic),56,934,No
+CHRISTOPHER596,Female,0,Yes,No,72,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,Two year,Yes,Electronic check,106,7544,No
+CHRISTOPHER597,Female,0,No,No,38,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,20,678,No
+CHRISTOPHER598,Female,0,No,No,29,No,Maryville,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,31,926,No
+CHRISTOPHER599,Male,0,No,No,54,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,No,One year,No,Electronic check,84,4484,No
+CHRISTOPHER600,Female,0,Yes,No,45,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,26,1121,No
+CHRISTOPHER601,Male,0,Yes,Yes,13,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Mailed check,50,587,No
+CHRISTOPHER602,Male,0,No,No,8,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,No,Electronic check,101,820,Yes
+CHRISTOPHER603,Male,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,20,No
+CHRISTOPHER604,Female,0,Yes,Yes,20,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),96,1916,No
+CHRISTOPHER605,Male,1,Yes,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Mailed check,71,71,Yes
+CHRISTOPHER606,Male,0,No,No,1,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,24,24,Yes
+CHRISTOPHER607,Female,0,No,No,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),91,6697,No
+CHRISTOPHER608,Male,0,Yes,No,46,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,One year,Yes,Electronic check,95,4313,No
+CHRISTOPHER609,Male,0,No,No,68,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Credit card (automatic),117,8036,No
+CHRISTOPHER610,Female,0,No,No,25,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,19,461,No
+CHRISTOPHER611,Female,1,No,No,32,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,80,2665,No
+CHRISTOPHER612,Female,0,No,No,4,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,No,Bank transfer (automatic),78,306,Yes
+CHRISTOPHER613,Male,0,No,No,13,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,83,1061,Yes
+CHRISTOPHER614,Female,0,Yes,No,2,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Bank transfer (automatic),20,52,No
+CHRISTOPHER615,Female,0,Yes,Yes,56,Yes,No,DSL,Yes,Yes,Yes,No,No,No,Two year,Yes,Credit card (automatic),61,3347,No
+CHRISTOPHER616,Female,0,Yes,Yes,71,No,Maryville,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,No,Mailed check,59,4145,No
+CHRISTOPHER617,Female,0,No,No,14,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,50,765,No
+CHRISTOPHER618,Male,0,No,Yes,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,20,20,No
+CHRISTOPHER619,Male,0,No,No,14,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Bank transfer (automatic),20,276,No
+CHRISTOPHER620,Female,1,No,No,2,Yes,Yes,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,89,179,Yes
+CHRISTOPHER621,Female,0,No,No,8,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,76,536,No
+CHRISTOPHER622,Female,0,No,No,14,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Electronic check,75,1026,Yes
+CHRISTOPHER623,Female,0,Yes,Yes,43,No,Maryville,DSL,Yes,Yes,No,Yes,Yes,No,One year,Yes,Bank transfer (automatic),51,2152,No
+CHRISTOPHER624,Female,0,Yes,Yes,30,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Bank transfer (automatic),20,609,No
+CHRISTOPHER625,Male,1,No,No,2,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,75,165,Yes
+CHRISTOPHER626,Female,0,No,No,7,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),79,523,No
+CHRISTOPHER627,Female,1,Yes,No,55,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Electronic check,85,4875,Yes
+CHRISTOPHER628,Female,0,Yes,Yes,67,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Bank transfer (automatic),19,1373,No
+CHRISTOPHER629,Male,0,No,No,5,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,51,262,No
+CHRISTOPHER630,Female,0,No,No,13,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,20,273,No
+CHRISTOPHER631,Female,0,No,No,2,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Mailed check,81,156,Yes
+CHRISTOPHER632,Female,1,No,No,59,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,No,Month-to-month,Yes,Electronic check,90,5497,No
+CHRISTOPHER633,Male,0,Yes,Yes,58,Yes,No,DSL,No,Yes,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),75,4301,No
+CHRISTOPHER634,Female,0,Yes,Yes,52,Yes,No,DSL,No,No,Yes,No,No,No,One year,Yes,Bank transfer (automatic),51,2611,No
+CHRISTOPHER635,Female,0,Yes,Yes,22,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,400,No
+CHRISTOPHER636,Male,0,No,No,29,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),99,2807,No
+CHRISTOPHER637,Female,0,Yes,Yes,64,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,91,5817,No
+CHRISTOPHER638,Male,0,Yes,Yes,4,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,51,226,Yes
+CHRISTOPHER639,Female,0,Yes,Yes,72,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Bank transfer (automatic),23,1623,No
+CHRISTOPHER640,Male,0,No,No,10,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,20,193,No
+CHRISTOPHER641,Male,1,Yes,No,57,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,No,One year,Yes,Electronic check,91,5200,No
+CHRISTOPHER642,Female,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,71,138,Yes
+CHRISTOPHER643,Female,1,No,No,72,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),108,7774,No
+CHRISTOPHER644,Female,0,Yes,Yes,72,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),109,7726,No
+CHRISTOPHER645,Male,0,No,No,31,Yes,Yes,Fiber optic,No,No,No,Yes,No,No,One year,No,Credit card (automatic),82,2549,No
+CHRISTOPHER646,Female,0,No,No,12,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,49,612,No
+CHRISTOPHER647,Male,0,Yes,Yes,7,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,21,150,No
+CHRISTOPHER648,Male,0,No,Yes,20,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Electronic check,19,375,Yes
+CHRISTOPHER649,Female,0,Yes,No,23,Yes,No,DSL,Yes,No,Yes,Yes,No,Yes,One year,Yes,Bank transfer (automatic),69,1689,No
+CHRISTOPHER650,Female,0,No,No,25,Yes,No,Fiber optic,Yes,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),80,2015,Yes
+CHRISTOPHER651,Male,0,No,No,3,Yes,No,DSL,Yes,No,No,Yes,Yes,No,Month-to-month,Yes,Credit card (automatic),64,196,No
+CHRISTOPHER652,Male,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,No,Electronic check,79,144,Yes
+CHRISTOPHER653,Male,0,No,No,5,Yes,No,DSL,No,No,Yes,No,Yes,Yes,One year,Yes,Mailed check,70,347,Yes
+CHRISTOPHER654,Female,1,Yes,No,11,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),104,1134,Yes
+CHRISTOPHER655,Male,0,No,No,18,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,One year,Yes,Credit card (automatic),90,1633,No
+CHRISTOPHER656,Female,1,No,No,7,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,51,419,No
+CHRISTOPHER657,Male,0,Yes,Yes,62,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,108,6826,No
+CHRISTOPHER658,Male,0,Yes,Yes,24,Yes,No,DSL,Yes,No,Yes,No,No,No,One year,Yes,Credit card (automatic),56,1454,No
+CHRISTOPHER659,Female,0,No,Yes,16,Yes,Yes,Fiber optic,No,No,No,Yes,No,No,One year,Yes,Credit card (automatic),80,1264,No
+CHRISTOPHER660,Female,1,Yes,Yes,29,No,Maryville,DSL,No,Yes,Yes,No,No,No,Month-to-month,Yes,Mailed check,36,1025,No
+CHRISTOPHER661,Female,1,No,No,40,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,92,3674,No
+CHRISTOPHER662,Female,0,Yes,Yes,31,Yes,Yes,DSL,No,Yes,No,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),81,2472,No
+CHRISTOPHER663,Male,0,Yes,No,53,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,One year,Yes,Bank transfer (automatic),94,4868,Yes
+CHRISTOPHER664,Female,0,Yes,No,71,No,Maryville,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),58,4146,No
+CHRISTOPHER665,Male,0,Yes,Yes,42,Yes,No,DSL,Yes,No,No,Yes,No,Yes,One year,No,Credit card (automatic),64,2763,No
+CHRISTOPHER666,Female,0,No,No,60,Yes,Yes,DSL,No,No,Yes,Yes,Yes,Yes,One year,No,Credit card (automatic),81,4847,No
+CHRISTOPHER667,Female,1,No,Yes,33,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),105,3465,No
+CHRISTOPHER668,Male,1,No,No,15,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,74,1074,Yes
+CHRISTOPHER669,Male,0,Yes,No,67,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,No,Two year,No,Credit card (automatic),71,4677,No
+CHRISTOPHER670,Female,0,No,No,13,Yes,No,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Electronic check,81,952,Yes
+CHRISTOPHER671,Male,0,Yes,Yes,69,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,No,Two year,Yes,Mailed check,92,6481,No
+CHRISTOPHER672,Male,0,No,No,5,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),95,463,Yes
+CHRISTOPHER673,Male,1,No,No,67,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),116,7840,No
+CHRISTOPHER674,Female,0,No,No,25,Yes,No,DSL,Yes,No,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),76,1993,No
+CHRISTOPHER675,Male,0,Yes,Yes,46,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,20,937,No
+CHRISTOPHER676,Male,0,Yes,No,72,Yes,No,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),79,5753,No
+CHRISTOPHER677,Female,0,No,No,15,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,320,No
+CHRISTOPHER678,Female,0,Yes,No,55,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Two year,No,Mailed check,57,3112,No
+CHRISTOPHER679,Female,0,No,No,72,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),25,1866,No
+CHRISTOPHER680,Male,1,No,No,39,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,No,Electronic check,91,3413,No
+CHRISTOPHER681,Female,0,Yes,Yes,43,Yes,Yes,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),93,4039,No
+CHRISTOPHER682,Female,0,Yes,No,16,No,Maryville,DSL,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,50,810,Yes
+CHRISTOPHER683,Male,0,No,Yes,38,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,82,3142,No
+CHRISTOPHER684,Female,0,No,No,21,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Mailed check,105,2239,No
+CHRISTOPHER685,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,80,80,Yes
+CHRISTOPHER686,Male,0,Yes,No,28,Yes,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,No,Bank transfer (automatic),77,2065,No
+CHRISTOPHER687,Male,1,Yes,Yes,65,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,86,5688,No
+CHRISTOPHER688,Male,1,No,No,16,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),74,1261,No
+CHRISTOPHER689,Female,0,Yes,Yes,71,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,1397,No
+CHRISTOPHER690,Male,0,Yes,No,61,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,114,7132,No
+CHRISTOPHER691,Female,0,No,No,8,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,87,762,Yes
+CHRISTOPHER692,Female,0,No,No,9,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,88,789,No
+CHRISTOPHER693,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,No,Electronic check,80,80,Yes
+CHRISTOPHER694,Female,0,Yes,No,28,Yes,No,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,No,Credit card (automatic),90,2434,No
+CHRISTOPHER695,Male,0,Yes,No,3,Yes,No,DSL,No,No,Yes,Yes,No,No,Month-to-month,Yes,Mailed check,56,155,No
+CHRISTOPHER696,Female,0,Yes,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,120,No
+CHRISTOPHER697,Male,0,Yes,Yes,17,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,93,1515,Yes
+CHRISTOPHER698,Male,0,Yes,Yes,38,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),85,3297,No
+CHRISTOPHER699,Male,0,No,No,8,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75,572,No
+CHRISTOPHER700,Male,0,Yes,No,68,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),25,1629,No
+CHRISTOPHER701,Male,0,Yes,No,64,Yes,No,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),104,6606,No
+CHRISTOPHER702,Male,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,20,No
+CHRISTOPHER703,Female,0,Yes,No,61,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),103,6518,No
+CHRISTOPHER704,Female,0,Yes,No,28,Yes,No,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,92,2603,Yes
+CHRISTOPHER705,Female,0,No,No,60,Yes,No,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),105,6237,No
+CHRISTOPHER706,Male,0,No,No,24,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,90,2239,Yes
+CHRISTOPHER707,Male,1,No,No,9,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,80,719,No
+CHRISTOPHER708,Male,0,Yes,Yes,38,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Electronic check,20,717,No
+CHRISTOPHER709,Female,0,No,No,10,No,Maryville,DSL,No,No,No,Yes,No,No,Two year,Yes,Mailed check,30,299,No
+CHRISTOPHER710,Male,0,Yes,Yes,37,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Credit card (automatic),20,677,No
+CHRISTOPHER711,Male,1,Yes,No,57,Yes,Yes,DSL,No,Yes,Yes,No,Yes,No,One year,Yes,Credit card (automatic),71,4140,No
+CHRISTOPHER712,Male,0,No,No,62,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,No,Yes,One year,No,Electronic check,102,6529,Yes
+CHRISTOPHER713,Female,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,90,168,Yes
+CHRISTOPHER714,Female,0,Yes,Yes,67,No,Maryville,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,60,4104,No
+CHRISTOPHER715,Male,0,No,No,46,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),19,908,No
+CHRISTOPHER716,Male,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,21,21,No
+CHRISTOPHER717,Male,0,No,Yes,63,No,Maryville,DSL,Yes,Yes,No,Yes,No,No,One year,Yes,Bank transfer (automatic),41,2589,No
+CHRISTOPHER718,Male,0,Yes,Yes,68,Yes,No,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),83,5776,No
+CHRISTOPHER719,Female,0,Yes,Yes,43,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),99,4210,No
+CHRISTOPHER720,Female,0,Yes,Yes,23,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),20,479,No
+CHRISTOPHER721,Male,0,Yes,No,51,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,One year,Yes,Credit card (automatic),96,4911,No
+CHRISTOPHER722,Male,0,No,No,72,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),20,1434,No
+CHRISTOPHER723,Male,0,Yes,No,37,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Bank transfer (automatic),20,698,No
+CHRISTOPHER724,Female,0,Yes,No,2,Yes,No,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),80,165,Yes
+CHRISTOPHER725,Male,0,No,No,4,Yes,No,DSL,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,56,235,No
+CHRISTOPHER726,Male,0,Yes,No,35,Yes,Yes,Fiber optic,No,No,No,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),90,3161,No
+CHRISTOPHER727,Male,0,Yes,No,62,No,Maryville,DSL,Yes,Yes,No,Yes,No,No,Two year,Yes,Credit card (automatic),39,2346,No
+CHRISTOPHER728,Male,0,No,No,12,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,Month-to-month,Yes,Electronic check,67,832,No
+CHRISTOPHER729,Male,0,Yes,Yes,72,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Electronic check,103,7373,Yes
+CHRISTOPHER730,Male,0,No,No,53,Yes,No,Fiber optic,No,Yes,No,Yes,No,No,Month-to-month,Yes,Mailed check,81,4348,No
+CHRISTOPHER731,Female,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,46,46,Yes
+CHRISTOPHER732,Male,1,No,No,67,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),25,1672,No
+CHRISTOPHER733,Male,0,No,Yes,13,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),78,1034,No
+CHRISTOPHER734,Male,1,No,No,45,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),94,4200,No
+CHRISTOPHER735,Male,0,No,No,49,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),107,5168,No
+CHRISTOPHER736,Male,1,Yes,No,72,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,No,Two year,No,Credit card (automatic),77,5396,No
+CHRISTOPHER737,Female,0,No,No,6,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,No,Mailed check,55,323,No
+CHRISTOPHER738,Male,0,No,No,69,No,Maryville,DSL,No,Yes,Yes,No,No,No,One year,Yes,Bank transfer (automatic),36,2492,No
+CHRISTOPHER739,Male,0,Yes,Yes,50,Yes,No,DSL,No,No,No,No,No,No,One year,Yes,Bank transfer (automatic),45,2231,No
+CHRISTOPHER740,Male,0,Yes,No,67,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,No,Electronic check,104,7041,Yes
+CHRISTOPHER741,Female,0,No,No,3,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,75,238,No
+CHRISTOPHER742,Male,0,Yes,Yes,72,No,Maryville,DSL,Yes,No,Yes,Yes,Yes,No,Two year,No,Mailed check,49,3527,No
+CHRISTOPHER743,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,71,71,Yes
+CHRISTOPHER744,Female,0,Yes,Yes,70,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,24,1765,No
+CHRISTOPHER745,Male,0,Yes,No,4,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75,301,Yes
+CHRISTOPHER746,Male,1,Yes,No,20,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,74,1464,Yes
+CHRISTOPHER747,Male,0,Yes,No,59,No,Maryville,DSL,No,Yes,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),41,2453,Yes
+CHRISTOPHER748,Female,0,Yes,Yes,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Electronic check,21,21,Yes
+CHRISTOPHER749,Female,0,Yes,No,64,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),25,1585,No
+CHRISTOPHER750,Female,0,Yes,Yes,6,No,Maryville,DSL,No,Yes,Yes,Yes,No,No,Two year,No,Mailed check,41,218,No
+CHRISTOPHER751,Male,1,Yes,No,69,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,110,7634,No
+CHRISTOPHER752,Male,0,No,No,4,Yes,No,Fiber optic,No,No,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,90,357,No
+CHRISTOPHER753,Male,0,Yes,Yes,65,Yes,Yes,DSL,Yes,Yes,No,No,No,Yes,Two year,Yes,Mailed check,70,4459,No
+CHRISTOPHER754,Female,0,No,No,636,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Month-to-month,Yes,Mailed check,816,272,Yes
+CHRISTOPHER755,Female,0,Yes,No,46,Yes,Yes,DSL,Yes,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),55,2474,No
+CHRISTOPHER756,Male,0,No,No,3,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Credit card (automatic),21,67,No
+CHRISTOPHER757,Female,0,No,Yes,63,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,1215,No
+CHRISTOPHER758,Female,0,No,Yes,35,Yes,No,DSL,Yes,Yes,No,No,No,No,One year,No,Credit card (automatic),56,2016,No
+CHRISTOPHER759,Female,0,No,No,8,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),80,679,Yes
+CHRISTOPHER760,Male,1,No,No,24,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),103,2497,Yes
+CHRISTOPHER761,Female,1,Yes,No,67,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,One year,Yes,Credit card (automatic),105,7036,No
+CHRISTOPHER762,Male,0,No,No,63,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Month-to-month,No,Electronic check,105,6713,No
+CHRISTOPHER763,Female,1,No,No,3,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Electronic check,74,196,No
+CHRISTOPHER764,Male,0,Yes,Yes,45,Yes,Yes,DSL,No,Yes,Yes,No,Yes,Yes,One year,No,Credit card (automatic),79,3601,No
+CHRISTOPHER765,Female,0,Yes,Yes,51,Yes,Yes,Fiber optic,No,No,Yes,No,No,Yes,One year,Yes,Electronic check,90,4555,No
+CHRISTOPHER766,Female,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,20,20,Yes
+CHRISTOPHER767,Male,0,Yes,Yes,36,No,Maryville,DSL,Yes,No,Yes,Yes,Yes,Yes,One year,No,Credit card (automatic),61,2235,No
+CHRISTOPHER768,Female,0,Yes,Yes,72,Yes,Yes,DSL,No,No,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),77,5468,No
+CHRISTOPHER769,Female,1,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,91,91,Yes
+CHRISTOPHER770,Female,0,Yes,No,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,92,6786,No
+CHRISTOPHER771,Male,0,Yes,No,36,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95,3474,No
+CHRISTOPHER772,Male,0,Yes,No,53,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,Yes,Month-to-month,No,Electronic check,94,5029,Yes
+CHRISTOPHER773,Female,0,Yes,Yes,72,No,Maryville,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,60,4264,No
+CHRISTOPHER774,Female,0,Yes,Yes,29,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,26,693,No
+CHRISTOPHER775,Male,0,Yes,No,49,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Two year,Yes,Electronic check,95,4691,No
+CHRISTOPHER776,Female,0,No,No,68,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),26,1822,No
+CHRISTOPHER777,Male,1,Yes,No,17,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95,1564,No
+CHRISTOPHER778,Male,0,Yes,Yes,13,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Bank transfer (automatic),25,344,No
+CHRISTOPHER779,Female,0,No,Yes,65,No,Maryville,DSL,No,Yes,No,Yes,Yes,No,Two year,No,Mailed check,45,2934,No
+CHRISTOPHER780,Female,1,No,No,29,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,No,Electronic check,99,2863,Yes
+CHRISTOPHER781,Male,0,No,No,9,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,25,190,No
+CHRISTOPHER782,Female,0,Yes,No,32,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,19,593,No
+CHRISTOPHER783,Male,0,No,No,56,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Bank transfer (automatic),26,1444,No
+CHRISTOPHER784,Male,0,No,No,5,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,317,Yes
+CHRISTOPHER785,Female,0,Yes,No,58,Yes,Yes,DSL,Yes,No,No,Yes,No,Yes,One year,Yes,Electronic check,68,3972,No
+CHRISTOPHER786,Male,0,Yes,No,63,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,One year,No,Credit card (automatic),80,5040,No
+CHRISTOPHER787,Female,0,Yes,No,70,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,102,7069,No
+CHRISTOPHER788,Female,0,No,Yes,34,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),116,3947,No
+CHRISTOPHER789,Female,0,No,No,26,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),75,1835,Yes
+CHRISTOPHER790,Male,0,Yes,Yes,12,No,Maryville,DSL,No,Yes,No,Yes,No,No,Month-to-month,No,Mailed check,36,432,No
+CHRISTOPHER791,Female,0,Yes,No,55,Yes,No,Fiber optic,Yes,No,No,No,Yes,Yes,One year,Yes,Electronic check,95,5276,No
+CHRISTOPHER792,Female,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,20,No
+CHRISTOPHER793,Male,0,No,No,72,No,Maryville,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),66,4567,No
+CHRISTOPHER794,Male,1,Yes,No,10,Yes,Yes,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,90,914,Yes
+CHRISTOPHER795,Male,0,No,No,48,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),106,5083,Yes
+CHRISTOPHER796,Male,0,Yes,Yes,12,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,49,571,No
+CHRISTOPHER797,Female,0,No,No,20,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,44,927,No
+CHRISTOPHER798,Male,0,No,No,62,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),23,1430,No
+CHRISTOPHER799,Male,0,No,Yes,69,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,Two year,Yes,Credit card (automatic),79,5503,No
+CHRISTOPHER800,Female,1,Yes,No,68,Yes,No,DSL,No,Yes,Yes,Yes,No,No,One year,Yes,Bank transfer (automatic),61,3976,No
+CHRISTOPHER801,Female,1,Yes,Yes,3,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,No,Month-to-month,Yes,Mailed check,88,274,Yes
+CHRISTOPHER802,Male,0,Yes,Yes,69,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Credit card (automatic),21,1403,No
+CHRISTOPHER803,Male,0,Yes,Yes,29,Yes,No,DSL,No,No,Yes,Yes,Yes,Yes,Two year,No,Mailed check,76,2054,No
+CHRISTOPHER804,Male,0,No,No,2,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,86,165,Yes
+CHRISTOPHER805,Male,0,Yes,Yes,58,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Electronic check,20,1109,No
+CHRISTOPHER806,Female,0,Yes,No,70,No,Maryville,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),58,4039,No
+CHRISTOPHER807,Male,0,Yes,No,40,Yes,Yes,DSL,No,Yes,No,Yes,Yes,No,One year,No,Credit card (automatic),71,2922,No
+CHRISTOPHER808,Male,0,Yes,No,24,Yes,No,Fiber optic,Yes,No,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,89,2210,No
+CHRISTOPHER809,Female,0,Yes,No,25,Yes,No,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,95,2396,No
+CHRISTOPHER810,Female,0,Yes,Yes,46,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,19,864,No
+CHRISTOPHER811,Male,0,No,Yes,8,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,179,No
+CHRISTOPHER812,Male,1,Yes,No,14,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75,1013,No
+CHRISTOPHER813,Male,0,No,No,6,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69,435,No
+CHRISTOPHER814,Male,0,No,No,7,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,19,169,No
+CHRISTOPHER815,Female,0,No,No,58,Yes,No,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,95,5818,No
+CHRISTOPHER816,Female,0,No,No,13,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,24,301,Yes
+CHRISTOPHER817,Male,0,Yes,Yes,11,Yes,Yes,DSL,Yes,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),65,723,No
+CHRISTOPHER818,Male,0,No,No,51,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Bank transfer (automatic),25,1266,No
+CHRISTOPHER819,Female,0,No,No,62,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),85,5193,No
+CHRISTOPHER820,Female,0,No,No,47,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,106,5128,Yes
+CHRISTOPHER821,Male,0,Yes,Yes,16,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,No,Electronic check,85,1398,No
+CHRISTOPHER822,Female,0,No,No,65,No,Maryville,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),60,3921,No
+CHRISTOPHER823,Female,0,Yes,Yes,3,No,Maryville,DSL,No,Yes,No,No,No,Yes,Month-to-month,No,Mailed check,40,93,No
+CHRISTOPHER824,Female,0,Yes,Yes,58,Yes,No,DSL,No,No,No,No,No,No,One year,Yes,Mailed check,44,2413,No
+CHRISTOPHER825,Female,0,No,No,53,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,19,1006,No
+CHRISTOPHER826,Female,0,Yes,Yes,45,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,81,3534,No
+CHRISTOPHER827,Male,0,No,No,72,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),109,7878,No
+CHRISTOPHER828,Male,0,No,Yes,54,Yes,No,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,One year,Yes,Electronic check,106,5827,No
+CHRISTOPHER829,Female,0,No,Yes,31,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Credit card (automatic),20,589,No
+CHRISTOPHER830,Male,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Bank transfer (automatic),20,20,Yes
+CHRISTOPHER831,Female,0,Yes,Yes,4,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,86,381,Yes
+CHRISTOPHER832,Male,0,Yes,No,54,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,110,6119,No
+CHRISTOPHER833,Female,1,No,No,46,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,104,4864,No
+CHRISTOPHER834,Male,0,Yes,No,63,Yes,Yes,DSL,No,Yes,No,Yes,No,Yes,Two year,No,Mailed check,67,4234,No
+CHRISTOPHER835,Female,0,No,No,3,No,Maryville,DSL,No,No,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),35,114,No
+CHRISTOPHER836,Male,0,Yes,Yes,60,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),104,5970,No
+CHRISTOPHER837,Male,0,Yes,Yes,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),113,8127,No
+CHRISTOPHER838,Male,0,No,No,59,No,Maryville,DSL,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,52,3006,No
+CHRISTOPHER839,Female,0,Yes,Yes,53,No,Maryville,DSL,Yes,Yes,Yes,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),49,2495,No
+CHRISTOPHER840,Female,0,Yes,Yes,50,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,One year,No,Mailed check,103,5154,No
+CHRISTOPHER841,Female,0,Yes,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,45,45,No
+CHRISTOPHER842,Female,1,No,No,49,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,No,Credit card (automatic),102,5070,No
+CHRISTOPHER843,Female,0,No,No,57,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),113,6465,Yes
+CHRISTOPHER844,Male,0,No,No,54,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,1009,No
+CHRISTOPHER845,Female,0,Yes,Yes,8,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,45,412,No
+CHRISTOPHER846,Male,0,Yes,No,55,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),26,1444,No
+CHRISTOPHER847,Male,0,Yes,No,14,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,82,1182,No
+CHRISTOPHER848,Male,1,Yes,No,32,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),106,3521,Yes
+CHRISTOPHER849,Female,0,No,No,41,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),115,4527,Yes
+CHRISTOPHER850,Male,0,No,No,7,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,521,No
+CHRISTOPHER851,Female,0,No,No,61,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Electronic check,90,5309,No
+CHRISTOPHER852,Male,0,Yes,Yes,63,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,19,1177,No
+CHRISTOPHER853,Female,0,Yes,No,2,No,Maryville,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,35,69,Yes
+CHRISTOPHER854,Female,0,Yes,No,71,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),19,1372,No
+CHRISTOPHER855,Female,0,Yes,Yes,61,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),115,7008,No
+CHRISTOPHER856,Male,0,Yes,No,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,Two year,No,Bank transfer (automatic),79,5763,No
+CHRISTOPHER857,Female,0,Yes,No,53,Yes,Yes,Fiber optic,No,No,No,Yes,No,Yes,One year,Yes,Electronic check,91,4863,No
+CHRISTOPHER858,Male,0,Yes,No,37,Yes,No,Fiber optic,No,No,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,90,3419,No
+CHRISTOPHER859,Male,0,No,No,7,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,90,593,Yes
+CHRISTOPHER860,Female,0,Yes,No,27,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Credit card (automatic),95,2463,No
+CHRISTOPHER861,Female,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Credit card (automatic),44,44,No
+CHRISTOPHER862,Male,0,Yes,Yes,25,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Bank transfer (automatic),25,547,No
+CHRISTOPHER863,Female,0,Yes,No,50,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),110,5406,No
+CHRISTOPHER864,Female,0,No,No,15,Yes,No,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,No,Electronic check,105,1583,Yes
+CHRISTOPHER865,Male,0,No,No,47,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),20,943,No
+CHRISTOPHER866,Male,0,No,No,5,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Mailed check,79,426,No
+CHRISTOPHER867,Female,0,No,No,3,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,79,245,Yes
+CHRISTOPHER868,Male,0,Yes,Yes,72,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),25,1859,No
+CHRISTOPHER869,Male,0,No,No,2,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,82,185,Yes
+CHRISTOPHER870,Female,0,No,No,26,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,81,2193,No
+CHRISTOPHER871,Male,1,Yes,No,36,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),85,3133,Yes
+CHRISTOPHER872,Male,0,Yes,Yes,32,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,Yes,One year,No,Mailed check,95,3132,No
+CHRISTOPHER873,Female,0,Yes,Yes,72,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,No,Two year,No,Bank transfer (automatic),100,7252,No
+CHRISTOPHER874,Male,0,Yes,No,48,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,19,855,No
+CHRISTOPHER875,Male,0,No,No,37,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,No,Bank transfer (automatic),99,3476,Yes
+CHRISTOPHER876,Female,0,Yes,No,29,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75,2149,No
+CHRISTOPHER877,Female,0,No,No,3,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,194,No
+CHRISTOPHER878,Male,0,No,No,2,No,Maryville,DSL,No,No,No,Yes,No,No,Month-to-month,No,Bank transfer (automatic),30,76,Yes
+CHRISTOPHER879,Female,1,Yes,No,12,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,98,1060,Yes
+CHRISTOPHER880,Male,1,No,No,24,Yes,Yes,DSL,No,Yes,No,No,No,No,Month-to-month,No,Credit card (automatic),55,1291,No
+CHRISTOPHER881,Male,0,Yes,Yes,57,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),98,5598,No
+CHRISTOPHER882,Male,0,No,Yes,60,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,85,4985,No
+CHRISTOPHER883,Female,0,No,No,4,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,70,281,Yes
+CHRISTOPHER884,Male,1,No,No,57,Yes,No,DSL,No,No,Yes,Yes,No,No,One year,Yes,Electronic check,54,3036,No
+CHRISTOPHER885,Female,0,No,No,16,Yes,No,DSL,No,Yes,No,Yes,No,No,Month-to-month,Yes,Mailed check,54,834,Yes
+CHRISTOPHER886,Female,1,No,No,4,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75,322,Yes
+CHRISTOPHER887,Female,0,Yes,No,43,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,No,Credit card (automatic),86,3575,No
+CHRISTOPHER888,Male,0,No,No,1,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,No,Mailed check,51,51,No
+CHRISTOPHER889,Male,0,No,No,7,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),69,489,No
+CHRISTOPHER890,Male,0,No,Yes,5,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,84,No
+CHRISTOPHER891,Female,0,Yes,No,2,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,74,139,Yes
+CHRISTOPHER892,Male,0,No,No,44,No,Maryville,DSL,No,Yes,Yes,No,Yes,Yes,One year,Yes,Mailed check,54,2375,Yes
+CHRISTOPHER893,Female,0,Yes,No,65,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),19,1320,No
+CHRISTOPHER894,Female,0,No,No,47,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Credit card (automatic),75,3545,No
+CHRISTOPHER895,Male,0,Yes,Yes,18,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Bank transfer (automatic),20,342,No
+CHRISTOPHER896,Male,0,No,No,26,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,98,2515,Yes
+CHRISTOPHER897,Female,0,Yes,Yes,6,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,46,285,No
+CHRISTOPHER898,Male,0,No,No,1,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,24,24,Yes
+CHRISTOPHER899,Male,1,Yes,No,35,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,95,3365,No
+CHRISTOPHER900,Female,0,No,No,40,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Bank transfer (automatic),21,827,No
+CHRISTOPHER901,Female,0,Yes,No,47,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,99,4534,Yes
+CHRISTOPHER902,Female,0,No,Yes,4,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,No,Mailed check,90,366,Yes
+CHRISTOPHER903,Female,0,No,No,67,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,26,1760,No
+CHRISTOPHER904,Male,0,No,Yes,1,No,Maryville,DSL,No,Yes,No,Yes,No,No,Month-to-month,No,Mailed check,34,34,No
+CHRISTOPHER905,Female,0,No,No,6,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),51,288,Yes
+CHRISTOPHER906,Female,0,Yes,No,59,Yes,No,Fiber optic,Yes,No,Yes,No,No,No,One year,Yes,Credit card (automatic),81,4639,No
+CHRISTOPHER907,Female,0,Yes,Yes,8,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,20,147,No
+CHRISTOPHER908,Female,1,Yes,No,66,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,One year,Yes,Credit card (automatic),106,6975,Yes
+CHRISTOPHER909,Female,0,Yes,Yes,46,No,Maryville,DSL,Yes,Yes,No,No,No,No,Month-to-month,No,Bank transfer (automatic),35,1620,No
+CHRISTOPHER910,Male,0,No,No,45,Yes,No,DSL,Yes,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,76,3274,No
+CHRISTOPHER911,Male,0,Yes,Yes,69,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),24,1718,No
+CHRISTOPHER912,Male,0,Yes,No,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),89,6254,No
+CHRISTOPHER913,Male,0,Yes,No,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,No,Two year,Yes,Bank transfer (automatic),68,4805,No
+CHRISTOPHER914,Female,0,Yes,Yes,56,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),100,5515,No
+CHRISTOPHER915,Male,0,No,Yes,4,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,49,220,Yes
+CHRISTOPHER916,Female,0,No,No,53,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,1048,No
+CHRISTOPHER917,Male,0,Yes,Yes,71,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,91,6590,No
+CHRISTOPHER918,Female,0,Yes,Yes,33,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Credit card (automatic),86,2746,Yes
+CHRISTOPHER919,Male,0,Yes,Yes,70,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),90,6237,No
+CHRISTOPHER920,Female,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),70,145,Yes
+CHRISTOPHER921,Female,0,Yes,Yes,31,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,91,2995,Yes
+CHRISTOPHER922,Female,0,No,No,20,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,407,No
+CHRISTOPHER923,Female,0,No,No,12,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),45,524,No
+CHRISTOPHER924,Female,0,Yes,Yes,67,Yes,Yes,Fiber optic,Yes,No,No,Yes,Yes,Yes,Two year,No,Credit card (automatic),107,7010,No
+CHRISTOPHER925,Male,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,20,No
+CHRISTOPHER926,Female,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,19,19,Yes
+CHRISTOPHER927,Female,0,Yes,Yes,48,No,Maryville,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Credit card (automatic),30,1423,No
+CHRISTOPHER928,Female,0,Yes,No,72,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,Two year,Yes,Credit card (automatic),105,7590,No
+CHRISTOPHER929,Female,0,Yes,No,72,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,101,7323,No
+CHRISTOPHER930,Male,1,Yes,No,57,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),95,5427,Yes
+CHRISTOPHER931,Female,1,Yes,No,53,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,One year,Yes,Credit card (automatic),96,5016,No
+CHRISTOPHER932,Female,0,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95,95,Yes
+CHRISTOPHER933,Male,0,No,No,44,Yes,No,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,106,4511,No
+CHRISTOPHER934,Female,0,Yes,Yes,72,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,25,1859,No
+CHRISTOPHER935,Male,0,Yes,No,72,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,Two year,Yes,Electronic check,85,6083,No
+CHRISTOPHER936,Female,0,No,No,17,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,20,354,No
+CHRISTOPHER937,Female,1,Yes,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69,154,No
+CHRISTOPHER938,Male,0,Yes,No,70,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,One year,Yes,Bank transfer (automatic),95,6603,No
+CHRISTOPHER939,Male,0,Yes,Yes,29,Yes,Yes,DSL,No,Yes,Yes,No,Yes,Yes,Month-to-month,No,Credit card (automatic),80,2212,No
+CHRISTOPHER940,Male,0,Yes,No,42,No,Maryville,DSL,Yes,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),40,1626,No
+CHRISTOPHER941,Female,0,Yes,Yes,55,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),104,5657,No
+CHRISTOPHER942,Male,0,No,No,29,No,Maryville,DSL,Yes,No,No,Yes,No,No,One year,No,Mailed check,36,1073,No
+CHRISTOPHER943,Male,0,Yes,Yes,72,Yes,Yes,DSL,Yes,No,Yes,Yes,No,No,Two year,Yes,Credit card (automatic),67,4812,No
+CHRISTOPHER944,Male,0,No,No,5,Yes,No,DSL,No,No,Yes,Yes,Yes,No,Month-to-month,Yes,Credit card (automatic),64,318,No
+CHRISTOPHER945,Female,0,Yes,Yes,72,No,Maryville,DSL,Yes,No,Yes,No,Yes,Yes,Two year,Yes,Credit card (automatic),54,3952,No
+CHRISTOPHER946,Male,0,Yes,Yes,54,Yes,Yes,DSL,No,Yes,No,Yes,Yes,No,One year,Yes,Electronic check,71,3770,No
+CHRISTOPHER947,Male,0,No,No,23,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,20,481,No
+CHRISTOPHER948,Female,1,Yes,No,70,Yes,Yes,Fiber optic,No,No,No,No,No,No,Two year,Yes,Credit card (automatic),76,5411,No
+CHRISTOPHER949,Female,0,No,No,8,Yes,No,DSL,Yes,No,No,Yes,No,Yes,Month-to-month,No,Bank transfer (automatic),66,575,No
+CHRISTOPHER950,Male,0,No,No,34,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,105,3541,No
+CHRISTOPHER951,Female,0,Yes,Yes,48,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,One year,Yes,Mailed check,82,4030,Yes
+CHRISTOPHER952,Male,0,Yes,No,10,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,85,855,Yes
+CHRISTOPHER953,Female,0,No,No,16,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Credit card (automatic),19,296,No
+CHRISTOPHER954,Male,0,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75,75,Yes
+CHRISTOPHER955,Male,0,Yes,Yes,60,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,One year,Yes,Bank transfer (automatic),66,3928,No
+CHRISTOPHER956,Female,0,No,No,7,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),75,553,Yes
+CHRISTOPHER957,Female,0,Yes,Yes,63,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Electronic check,19,1264,No
+CHRISTOPHER958,Male,0,Yes,No,4,Yes,Yes,DSL,No,No,Yes,No,Yes,No,Month-to-month,No,Electronic check,66,250,No
+CHRISTOPHER959,Male,0,No,No,54,Yes,No,Fiber optic,Yes,No,Yes,No,Yes,No,Month-to-month,No,Mailed check,90,4667,No
+CHRISTOPHER960,Female,0,Yes,No,70,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,98,6983,No
+CHRISTOPHER961,Female,0,Yes,No,26,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Credit card (automatic),90,2313,No
+CHRISTOPHER962,Female,0,No,No,25,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,No,One year,No,Mailed check,74,1864,Yes
+CHRISTOPHER963,Female,0,No,No,3,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,64,No
+CHRISTOPHER964,Male,1,No,No,1,No,Maryville,DSL,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,43,43,Yes
+CHRISTOPHER965,Female,0,No,No,46,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,101,4674,No
+CHRISTOPHER966,Female,0,No,No,17,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,94,1618,Yes
+CHRISTOPHER967,Male,0,No,No,5,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,No,Mailed check,104,542,Yes
+CHRISTOPHER968,Male,0,No,No,19,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,19,279,No
+CHRISTOPHER969,Male,1,Yes,No,4,No,Maryville,DSL,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,30,118,No
+CHRISTOPHER970,Male,0,No,No,4,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,25,102,No
+CHRISTOPHER971,Female,1,Yes,No,71,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,No,Two year,Yes,Credit card (automatic),96,6767,No
+CHRISTOPHER972,Male,0,No,No,4,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,86,339,Yes
+CHRISTOPHER973,Female,1,No,No,32,Yes,No,DSL,No,Yes,No,Yes,No,No,Month-to-month,No,Bank transfer (automatic),55,1830,No
+CHRISTOPHER974,Female,0,No,No,70,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,Two year,No,Mailed check,85,5991,No
+CHRISTOPHER975,Male,0,Yes,No,31,Yes,Yes,DSL,No,No,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),59,1883,No
+CHRISTOPHER976,Male,0,Yes,Yes,71,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),116,8298,No
+CHRISTOPHER977,Female,0,Yes,No,71,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),86,6224,No
+CHRISTOPHER978,Male,0,No,No,8,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,45,438,Yes
+CHRISTOPHER979,Female,0,Yes,No,44,Yes,No,DSL,Yes,Yes,Yes,No,No,No,One year,Yes,Mailed check,62,2722,No
+CHRISTOPHER980,Female,0,No,No,18,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,392,No
+CHRISTOPHER981,Male,0,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,74,74,Yes
+CHRISTOPHER982,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,70,Yes
+CHRISTOPHER983,Male,0,Yes,No,67,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,No,Credit card (automatic),110,7332,No
+CHRISTOPHER984,Female,0,No,No,30,No,Maryville,DSL,No,No,No,Yes,No,Yes,One year,Yes,Credit card (automatic),40,1187,No
+CHRISTOPHER985,Male,0,Yes,Yes,63,No,Maryville,DSL,Yes,Yes,Yes,No,Yes,Yes,Two year,No,Electronic check,59,3708,No
+CHRISTOPHER986,Female,1,Yes,Yes,32,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Mailed check,91,2897,No
+CHRISTOPHER987,Male,0,Yes,Yes,19,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,Yes,One year,No,Bank transfer (automatic),100,1889,Yes
+CHRISTOPHER988,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),44,44,No
+CHRISTOPHER989,Female,1,Yes,Yes,71,Yes,Yes,DSL,Yes,Yes,No,No,Yes,No,One year,No,Electronic check,69,4983,No
+CHRISTOPHER990,Male,0,No,No,71,Yes,Yes,Fiber optic,Yes,No,No,Yes,No,Yes,One year,No,Credit card (automatic),98,6688,No
+CHRISTOPHER991,Female,0,No,No,49,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,85,3907,No
+CHRISTOPHER992,Female,0,Yes,Yes,25,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,20,520,No
+CHRISTOPHER993,Female,0,Yes,Yes,71,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),20,1389,No
+CHRISTOPHER994,Male,0,Yes,Yes,71,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,One year,Yes,Credit card (automatic),67,4749,No
+CHRISTOPHER995,Female,1,Yes,No,56,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),101,5688,Yes
+CHRISTOPHER996,Female,0,Yes,No,58,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),109,6394,No
+CHRISTOPHER997,Female,1,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),115,8334,No
+CHRISTOPHER998,Male,0,No,No,9,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Mailed check,70,658,No
+CHRISTOPHER999,Male,0,No,No,12,No,Maryville,DSL,No,Yes,No,Yes,No,No,Month-to-month,No,Mailed check,34,442,No
+CHRISTOPHER1000,Female,0,No,No,5,Yes,No,DSL,Yes,No,No,Yes,No,No,Month-to-month,No,Electronic check,54,308,Yes
